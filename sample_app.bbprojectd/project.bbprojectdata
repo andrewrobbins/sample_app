@@ -17,6 +17,7 @@
 		<string>38098E88-0CF7-4555-8A0E-C5253E662D8F</string>
 		<string>EA0D303D-7193-445B-9799-9EF026C6A83F</string>
 		<string>3E651CC1-9333-449A-B915-C750CEF55306</string>
+		<string>2182DEC2-9B1D-4D75-8DD1-D7D271CA7452</string>
 		<string>FBCA4886-B2BA-4E15-85D4-001F6A7F7D55</string>
 		<string>2B2D2FB0-1A60-472D-BA8E-B8E6B0296B70</string>
 	</array>
@@ -52,6 +53,41 @@
 			</dict>
 			<key>ItemName</key>
 			<string>public</string>
+			<key>ItemType</key>
+			<string>FolderReference</string>
+			<key>UserOverrideItemName</key>
+			<true/>
+		</dict>
+		<key>2182DEC2-9B1D-4D75-8DD1-D7D271CA7452</key>
+		<dict>
+			<key>ItemData</key>
+			<dict>
+				<key>AliasData</key>
+				<data>
+				AAAAAAF2AAIAAQ5KYXlhdmFybWFuIFZJSQAAAAAAAAAA
+				AAAAAADJhKxaSCsAAAAT2NgEc3BlYwAAAAAAAAAAAAAA
+				AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+				AAAAAAAAAAAAAAAAAAAAABPpkcpjMiAAAAAAAAAAAP//
+				//8AAAkgAAAAAAAAAAAAAAAAAAAACnNhbXBsZV9hcHAA
+				EAAIAADJhRzaAAAAEQAIAADKY5SQAAAAAQAQABPY2AAP
+				GaAACH9ZAACYPgACADZKYXlhdmFybWFuIFZJSTpVc2Vy
+				czphbmRyZXdyb2JiaW5zOnNyYzpzYW1wbGVfYXBwOnNw
+				ZWMADgAKAAQAcwBwAGUAYwAPAB4ADgBKAGEAeQBhAHYA
+				YQByAG0AYQBuACAAVgBJAEkAEgAnVXNlcnMvYW5kcmV3
+				cm9iYmlucy9zcmMvc2FtcGxlX2FwcC9zcGVjAAATAAEv
+				AAAVAAIAFP//AAA=
+				</data>
+				<key>FileURL</key>
+				<string>file://localhost/Users/andrewrobbins/src/sample_app/spec/</string>
+				<key>RelativePath</key>
+				<string>./spec</string>
+				<key>TypeID</key>
+				<string>_CFileLocator</string>
+				<key>Version</key>
+				<integer>1</integer>
+			</dict>
+			<key>ItemName</key>
+			<string>spec</string>
 			<key>ItemType</key>
 			<string>FolderReference</string>
 			<key>UserOverrideItemName</key>
