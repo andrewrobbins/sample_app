@@ -4,96 +4,27 @@
 <dict>
 	<key>HierarchyData</key>
 	<array>
-		<string>89E837A5-933E-4AD8-97E0-F13034A9CD8F</string>
-		<string>9C75A130-A7C6-46CE-A4AC-CA16BAD828ED</string>
-		<string>B0A3F84E-A616-4C0B-BCE6-8AFE20040720</string>
-		<string>BCBAF176-78B3-4EE3-BB35-D5FEA7068770</string>
-		<string>35ECE38C-8047-49B6-A644-9919E8705B88</string>
-		<string>CA7C3EEC-4721-4142-8412-EA5A6D79537E</string>
-		<string>7D1A778A-8656-4F50-8006-3BC354B6EEE5</string>
-		<string>FB691C6A-16DB-4E7E-8A50-1C0AF7B48089</string>
-		<string>0FA6245B-F68E-4BE0-96A5-63A378F8C933</string>
-		<string>8CAD0CF0-62FE-41C4-B4EA-247803D9E0D5</string>
-		<string>38098E88-0CF7-4555-8A0E-C5253E662D8F</string>
-		<string>EA0D303D-7193-445B-9799-9EF026C6A83F</string>
-		<string>3E651CC1-9333-449A-B915-C750CEF55306</string>
-		<string>2182DEC2-9B1D-4D75-8DD1-D7D271CA7452</string>
-		<string>FBCA4886-B2BA-4E15-85D4-001F6A7F7D55</string>
-		<string>2B2D2FB0-1A60-472D-BA8E-B8E6B0296B70</string>
+		<string>233F873D-4661-460E-BD99-AE0FED2424C3</string>
+		<string>C6D916AF-6770-4344-B6A2-2BA4C40D3C94</string>
+		<string>E8E93E5C-7EEF-4FB1-BB1F-B88CB8386D01</string>
+		<string>95D76E86-CCB7-4E2C-8339-72AAF1177754</string>
+		<string>7D0DA476-F642-42C8-ABCC-E898F3881D8A</string>
+		<string>4B19EACE-5988-4DE9-BECD-8801C27F17A3</string>
+		<string>7E1CFB28-C79F-4EDC-AAE2-6E45E8DE13F4</string>
+		<string>2B28582C-A8DE-4A5E-BFF5-43FF3B9DABEF</string>
+		<string>81EF7DB9-08AA-4D24-8F37-417173BF2779</string>
+		<string>EAF5ED6B-34C1-406D-A7A8-2F0A3B93317E</string>
+		<string>86D97E9F-0326-43FC-A169-670BCEDEE399</string>
+		<string>1605E53A-2087-4D68-810C-CB0E2FBE2FBE</string>
+		<string>2E04948F-2B02-4D2C-A338-129C1D6BA787</string>
+		<string>BB218C36-F18C-4BE7-9B5C-8266E953AE80</string>
+		<string>D2CCDF2D-5AB1-4888-85B6-C82BC7CF4B0A</string>
+		<string>E21136C9-4854-4E84-9B41-14FBC660EA48</string>
+		<string>086B8755-C40E-4321-9EF3-1FEE65C11918</string>
 	</array>
 	<key>ProjectItems</key>
 	<dict>
-		<key>0FA6245B-F68E-4BE0-96A5-63A378F8C933</key>
-		<dict>
-			<key>ItemData</key>
-			<dict>
-				<key>AliasData</key>
-				<data>
-				AAAAAAF+AAIAAQ5KYXlhdmFybWFuIFZJSQAAAAAAAAAA
-				AAAAAADJhKxaSCsAAAAT2NgGcHVibGljAAAAAAAAAAAA
-				AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
-				AAAAAAAAAAAAAAAAAAAAABPZBspjCscAAAAAAAAAAP//
-				//8AAAkgAAAAAAAAAAAAAAAAAAAACnNhbXBsZV9hcHAA
-				EAAIAADJhRzaAAAAEQAIAADKY203AAAAAQAQABPY2AAP
-				GaAACH9ZAACYPgACADhKYXlhdmFybWFuIFZJSTpVc2Vy
-				czphbmRyZXdyb2JiaW5zOnNyYzpzYW1wbGVfYXBwOnB1
-				YmxpYwAOAA4ABgBwAHUAYgBsAGkAYwAPAB4ADgBKAGEA
-				eQBhAHYAYQByAG0AYQBuACAAVgBJAEkAEgApVXNlcnMv
-				YW5kcmV3cm9iYmlucy9zcmMvc2FtcGxlX2FwcC9wdWJs
-				aWMAABMAAS8AABUAAgAU//8AAA==
-				</data>
-				<key>FileURL</key>
-				<string>file://localhost/Users/andrewrobbins/src/sample_app/public/</string>
-				<key>RelativePath</key>
-				<string>./public</string>
-				<key>TypeID</key>
-				<string>_CFileLocator</string>
-				<key>Version</key>
-				<integer>1</integer>
-			</dict>
-			<key>ItemName</key>
-			<string>public</string>
-			<key>ItemType</key>
-			<string>FolderReference</string>
-			<key>UserOverrideItemName</key>
-			<true/>
-		</dict>
-		<key>2182DEC2-9B1D-4D75-8DD1-D7D271CA7452</key>
-		<dict>
-			<key>ItemData</key>
-			<dict>
-				<key>AliasData</key>
-				<data>
-				AAAAAAF2AAIAAQ5KYXlhdmFybWFuIFZJSQAAAAAAAAAA
-				AAAAAADJhKxaSCsAAAAT2NgEc3BlYwAAAAAAAAAAAAAA
-				AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
-				AAAAAAAAAAAAAAAAAAAAABPpkcpjMiAAAAAAAAAAAP//
-				//8AAAkgAAAAAAAAAAAAAAAAAAAACnNhbXBsZV9hcHAA
-				EAAIAADJhRzaAAAAEQAIAADKY5SQAAAAAQAQABPY2AAP
-				GaAACH9ZAACYPgACADZKYXlhdmFybWFuIFZJSTpVc2Vy
-				czphbmRyZXdyb2JiaW5zOnNyYzpzYW1wbGVfYXBwOnNw
-				ZWMADgAKAAQAcwBwAGUAYwAPAB4ADgBKAGEAeQBhAHYA
-				YQByAG0AYQBuACAAVgBJAEkAEgAnVXNlcnMvYW5kcmV3
-				cm9iYmlucy9zcmMvc2FtcGxlX2FwcC9zcGVjAAATAAEv
-				AAAVAAIAFP//AAA=
-				</data>
-				<key>FileURL</key>
-				<string>file://localhost/Users/andrewrobbins/src/sample_app/spec/</string>
-				<key>RelativePath</key>
-				<string>./spec</string>
-				<key>TypeID</key>
-				<string>_CFileLocator</string>
-				<key>Version</key>
-				<integer>1</integer>
-			</dict>
-			<key>ItemName</key>
-			<string>spec</string>
-			<key>ItemType</key>
-			<string>FolderReference</string>
-			<key>UserOverrideItemName</key>
-			<true/>
-		</dict>
-		<key>2B2D2FB0-1A60-472D-BA8E-B8E6B0296B70</key>
+		<key>086B8755-C40E-4321-9EF3-1FEE65C11918</key>
 		<dict>
 			<key>ItemData</key>
 			<dict>
@@ -128,182 +59,7 @@
 			<key>UserOverrideItemName</key>
 			<true/>
 		</dict>
-		<key>35ECE38C-8047-49B6-A644-9919E8705B88</key>
-		<dict>
-			<key>ItemData</key>
-			<dict>
-				<key>AliasData</key>
-				<data>
-				AAAAAAFyAAIAAQ5KYXlhdmFybWFuIFZJSQAAAAAAAAAA
-				AAAAAADJhKxaSCsAAAAT2NgDZG9jAAAAAAAAAAAAAAAA
-				AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
-				AAAAAAAAAAAAAAAAAAAAABPY/MpjCscAAAAAAAAAAP//
-				//8AAAkgAAAAAAAAAAAAAAAAAAAACnNhbXBsZV9hcHAA
-				EAAIAADJhRzaAAAAEQAIAADKY203AAAAAQAQABPY2AAP
-				GaAACH9ZAACYPgACADVKYXlhdmFybWFuIFZJSTpVc2Vy
-				czphbmRyZXdyb2JiaW5zOnNyYzpzYW1wbGVfYXBwOmRv
-				YwAADgAIAAMAZABvAGMADwAeAA4ASgBhAHkAYQB2AGEA
-				cgBtAGEAbgAgAFYASQBJABIAJlVzZXJzL2FuZHJld3Jv
-				YmJpbnMvc3JjL3NhbXBsZV9hcHAvZG9jABMAAS8AABUA
-				AgAU//8AAA==
-				</data>
-				<key>FileURL</key>
-				<string>file://localhost/Users/andrewrobbins/src/sample_app/doc/</string>
-				<key>RelativePath</key>
-				<string>./doc</string>
-				<key>TypeID</key>
-				<string>_CFileLocator</string>
-				<key>Version</key>
-				<integer>1</integer>
-			</dict>
-			<key>ItemName</key>
-			<string>doc</string>
-			<key>ItemType</key>
-			<string>FolderReference</string>
-			<key>UserOverrideItemName</key>
-			<true/>
-		</dict>
-		<key>38098E88-0CF7-4555-8A0E-C5253E662D8F</key>
-		<dict>
-			<key>ItemData</key>
-			<dict>
-				<key>AliasData</key>
-				<data>
-				AAAAAAF+AAIAAA5KYXlhdmFybWFuIFZJSQAAAAAAAAAA
-				AAAAAADJhKxaSCsAAAAT2NgGUkVBRE1FAAAAAAAAAAAA
-				AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
-				AAAAAAAAAAAAAAAAAAAAABPY2cpjCscAAAAAAAAAAP//
-				//8AAAkgAAAAAAAAAAAAAAAAAAAACnNhbXBsZV9hcHAA
-				EAAIAADJhRzaAAAAEQAIAADKY203AAAAAQAQABPY2AAP
-				GaAACH9ZAACYPgACADhKYXlhdmFybWFuIFZJSTpVc2Vy
-				czphbmRyZXdyb2JiaW5zOnNyYzpzYW1wbGVfYXBwOlJF
-				QURNRQAOAA4ABgBSAEUAQQBEAE0ARQAPAB4ADgBKAGEA
-				eQBhAHYAYQByAG0AYQBuACAAVgBJAEkAEgApVXNlcnMv
-				YW5kcmV3cm9iYmlucy9zcmMvc2FtcGxlX2FwcC9SRUFE
-				TUUAABMAAS8AABUAAgAU//8AAA==
-				</data>
-				<key>FileURL</key>
-				<string>file://localhost/Users/andrewrobbins/src/sample_app/README</string>
-				<key>RelativePath</key>
-				<string>./README</string>
-				<key>TypeID</key>
-				<string>_CFileLocator</string>
-				<key>Version</key>
-				<integer>1</integer>
-			</dict>
-			<key>ItemName</key>
-			<string>README</string>
-			<key>ItemType</key>
-			<string>FileReference</string>
-			<key>UserOverrideItemName</key>
-			<true/>
-		</dict>
-		<key>3E651CC1-9333-449A-B915-C750CEF55306</key>
-		<dict>
-			<key>ItemData</key>
-			<dict>
-				<key>AliasData</key>
-				<data>
-				AAAAAAF+AAIAAQ5KYXlhdmFybWFuIFZJSQAAAAAAAAAA
-				AAAAAADJhKxaSCsAAAAT2NgGc2NyaXB0AAAAAAAAAAAA
-				AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
-				AAAAAAAAAAAAAAAAAAAAABPZGMpjCscAAAAAAAAAAP//
-				//8AAAkgAAAAAAAAAAAAAAAAAAAACnNhbXBsZV9hcHAA
-				EAAIAADJhRzaAAAAEQAIAADKY203AAAAAQAQABPY2AAP
-				GaAACH9ZAACYPgACADhKYXlhdmFybWFuIFZJSTpVc2Vy
-				czphbmRyZXdyb2JiaW5zOnNyYzpzYW1wbGVfYXBwOnNj
-				cmlwdAAOAA4ABgBzAGMAcgBpAHAAdAAPAB4ADgBKAGEA
-				eQBhAHYAYQByAG0AYQBuACAAVgBJAEkAEgApVXNlcnMv
-				YW5kcmV3cm9iYmlucy9zcmMvc2FtcGxlX2FwcC9zY3Jp
-				cHQAABMAAS8AABUAAgAU//8AAA==
-				</data>
-				<key>FileURL</key>
-				<string>file://localhost/Users/andrewrobbins/src/sample_app/script/</string>
-				<key>RelativePath</key>
-				<string>./script</string>
-				<key>TypeID</key>
-				<string>_CFileLocator</string>
-				<key>Version</key>
-				<integer>1</integer>
-			</dict>
-			<key>ItemName</key>
-			<string>script</string>
-			<key>ItemType</key>
-			<string>FolderReference</string>
-			<key>UserOverrideItemName</key>
-			<true/>
-		</dict>
-		<key>7D1A778A-8656-4F50-8006-3BC354B6EEE5</key>
-		<dict>
-			<key>ItemData</key>
-			<dict>
-				<key>AliasData</key>
-				<data>
-				AAAAAAFyAAIAAQ5KYXlhdmFybWFuIFZJSQAAAAAAAAAA
-				AAAAAADJhKxaSCsAAAAT2NgDbGliAAAAAAAAAAAAAAAA
-				AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
-				AAAAAAAAAAAAAAAAAAAAABPY/spjCscAAAAAAAAAAP//
-				//8AAAkgAAAAAAAAAAAAAAAAAAAACnNhbXBsZV9hcHAA
-				EAAIAADJhRzaAAAAEQAIAADKY203AAAAAQAQABPY2AAP
-				GaAACH9ZAACYPgACADVKYXlhdmFybWFuIFZJSTpVc2Vy
-				czphbmRyZXdyb2JiaW5zOnNyYzpzYW1wbGVfYXBwOmxp
-				YgAADgAIAAMAbABpAGIADwAeAA4ASgBhAHkAYQB2AGEA
-				cgBtAGEAbgAgAFYASQBJABIAJlVzZXJzL2FuZHJld3Jv
-				YmJpbnMvc3JjL3NhbXBsZV9hcHAvbGliABMAAS8AABUA
-				AgAU//8AAA==
-				</data>
-				<key>FileURL</key>
-				<string>file://localhost/Users/andrewrobbins/src/sample_app/lib/</string>
-				<key>RelativePath</key>
-				<string>./lib</string>
-				<key>TypeID</key>
-				<string>_CFileLocator</string>
-				<key>Version</key>
-				<integer>1</integer>
-			</dict>
-			<key>ItemName</key>
-			<string>lib</string>
-			<key>ItemType</key>
-			<string>FolderReference</string>
-			<key>UserOverrideItemName</key>
-			<true/>
-		</dict>
-		<key>89E837A5-933E-4AD8-97E0-F13034A9CD8F</key>
-		<dict>
-			<key>ItemData</key>
-			<dict>
-				<key>AliasData</key>
-				<data>
-				AAAAAAFyAAIAAQ5KYXlhdmFybWFuIFZJSQAAAAAAAAAA
-				AAAAAADJhKxaSCsAAAAT2NgDYXBwAAAAAAAAAAAAAAAA
-				AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
-				AAAAAAAAAAAAAAAAAAAAABPY3spjCscAAAAAAAAAAP//
-				//8AAAkgAAAAAAAAAAAAAAAAAAAACnNhbXBsZV9hcHAA
-				EAAIAADJhRzaAAAAEQAIAADKY203AAAAAQAQABPY2AAP
-				GaAACH9ZAACYPgACADVKYXlhdmFybWFuIFZJSTpVc2Vy
-				czphbmRyZXdyb2JiaW5zOnNyYzpzYW1wbGVfYXBwOmFw
-				cAAADgAIAAMAYQBwAHAADwAeAA4ASgBhAHkAYQB2AGEA
-				cgBtAGEAbgAgAFYASQBJABIAJlVzZXJzL2FuZHJld3Jv
-				YmJpbnMvc3JjL3NhbXBsZV9hcHAvYXBwABMAAS8AABUA
-				AgAU//8AAA==
-				</data>
-				<key>FileURL</key>
-				<string>file://localhost/Users/andrewrobbins/src/sample_app/app/</string>
-				<key>RelativePath</key>
-				<string>./app</string>
-				<key>TypeID</key>
-				<string>_CFileLocator</string>
-				<key>Version</key>
-				<integer>1</integer>
-			</dict>
-			<key>ItemName</key>
-			<string>app</string>
-			<key>ItemType</key>
-			<string>FolderReference</string>
-			<key>UserOverrideItemName</key>
-			<true/>
-		</dict>
-		<key>8CAD0CF0-62FE-41C4-B4EA-247803D9E0D5</key>
+		<key>1605E53A-2087-4D68-810C-CB0E2FBE2FBE</key>
 		<dict>
 			<key>ItemData</key>
 			<dict>
@@ -338,77 +94,149 @@
 			<key>UserOverrideItemName</key>
 			<true/>
 		</dict>
-		<key>9C75A130-A7C6-46CE-A4AC-CA16BAD828ED</key>
+		<key>233F873D-4661-460E-BD99-AE0FED2424C3</key>
 		<dict>
 			<key>ItemData</key>
 			<dict>
 				<key>AliasData</key>
 				<data>
-				AAAAAAF+AAIAAQ5KYXlhdmFybWFuIFZJSQAAAAAAAAAA
-				AAAAAADJhKxaSCsAAAAT2NgGY29uZmlnAAAAAAAAAAAA
+				AAAAAAFyAAIAAQ5KYXlhdmFybWFuIFZJSQAAAAAAAAAA
+				AAAAAADJhKxaSCsAAAAT2NgDYXBwAAAAAAAAAAAAAAAA
 				AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
-				AAAAAAAAAAAAAAAAAAAAABPY6MpjCscAAAAAAAAAAP//
+				AAAAAAAAAAAAAAAAAAAAABPY3spjCscAAAAAAAAAAP//
 				//8AAAkgAAAAAAAAAAAAAAAAAAAACnNhbXBsZV9hcHAA
 				EAAIAADJhRzaAAAAEQAIAADKY203AAAAAQAQABPY2AAP
-				GaAACH9ZAACYPgACADhKYXlhdmFybWFuIFZJSTpVc2Vy
-				czphbmRyZXdyb2JiaW5zOnNyYzpzYW1wbGVfYXBwOmNv
-				bmZpZwAOAA4ABgBjAG8AbgBmAGkAZwAPAB4ADgBKAGEA
-				eQBhAHYAYQByAG0AYQBuACAAVgBJAEkAEgApVXNlcnMv
-				YW5kcmV3cm9iYmlucy9zcmMvc2FtcGxlX2FwcC9jb25m
-				aWcAABMAAS8AABUAAgAU//8AAA==
+				GaAACH9ZAACYPgACADVKYXlhdmFybWFuIFZJSTpVc2Vy
+				czphbmRyZXdyb2JiaW5zOnNyYzpzYW1wbGVfYXBwOmFw
+				cAAADgAIAAMAYQBwAHAADwAeAA4ASgBhAHkAYQB2AGEA
+				cgBtAGEAbgAgAFYASQBJABIAJlVzZXJzL2FuZHJld3Jv
+				YmJpbnMvc3JjL3NhbXBsZV9hcHAvYXBwABMAAS8AABUA
+				AgAU//8AAA==
 				</data>
 				<key>FileURL</key>
-				<string>file://localhost/Users/andrewrobbins/src/sample_app/config/</string>
+				<string>file://localhost/Users/andrewrobbins/src/sample_app/app/</string>
 				<key>RelativePath</key>
-				<string>./config</string>
+				<string>./app</string>
 				<key>TypeID</key>
 				<string>_CFileLocator</string>
 				<key>Version</key>
 				<integer>1</integer>
 			</dict>
 			<key>ItemName</key>
-			<string>config</string>
+			<string>app</string>
 			<key>ItemType</key>
 			<string>FolderReference</string>
 			<key>UserOverrideItemName</key>
 			<true/>
 		</dict>
-		<key>B0A3F84E-A616-4C0B-BCE6-8AFE20040720</key>
+		<key>2B28582C-A8DE-4A5E-BFF5-43FF3B9DABEF</key>
 		<dict>
 			<key>ItemData</key>
 			<dict>
 				<key>AliasData</key>
 				<data>
-				AAAAAAGKAAIAAA5KYXlhdmFybWFuIFZJSQAAAAAAAAAA
-				AAAAAADJhKxaSCsAAAAT2NgJY29uZmlnLnJ1AAAAAAAA
+				AAAAAAGWAAIAAA5KYXlhdmFybWFuIFZJSQAAAAAAAAAA
+				AAAAAADJhKxaSCsAAAAT2NgMR2VtZmlsZS5sb2NrAAAA
 				AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
-				AAAAAAAAAAAAAAAAAAAAABPY28pjCscAAAAAAAAAAP//
+				AAAAAAAAAAAAAAAAAAAAABPpXcpjLwwAAAAAAAAAAP//
 				//8AAAkgAAAAAAAAAAAAAAAAAAAACnNhbXBsZV9hcHAA
-				EAAIAADJhRzaAAAAEQAIAADKY203AAAAAQAQABPY2AAP
-				GaAACH9ZAACYPgACADtKYXlhdmFybWFuIFZJSTpVc2Vy
-				czphbmRyZXdyb2JiaW5zOnNyYzpzYW1wbGVfYXBwOmNv
-				bmZpZy5ydQAADgAUAAkAYwBvAG4AZgBpAGcALgByAHUA
-				DwAeAA4ASgBhAHkAYQB2AGEAcgBtAGEAbgAgAFYASQBJ
-				ABIALFVzZXJzL2FuZHJld3JvYmJpbnMvc3JjL3NhbXBs
-				ZV9hcHAvY29uZmlnLnJ1ABMAAS8AABUAAgAU//8AAA==
+				EAAIAADJhRzaAAAAEQAIAADKY5F8AAAAAQAQABPY2AAP
+				GaAACH9ZAACYPgACAD5KYXlhdmFybWFuIFZJSTpVc2Vy
+				czphbmRyZXdyb2JiaW5zOnNyYzpzYW1wbGVfYXBwOkdl
+				bWZpbGUubG9jawAOABoADABHAGUAbQBmAGkAbABlAC4A
+				bABvAGMAawAPAB4ADgBKAGEAeQBhAHYAYQByAG0AYQBu
+				ACAAVgBJAEkAEgAvVXNlcnMvYW5kcmV3cm9iYmlucy9z
+				cmMvc2FtcGxlX2FwcC9HZW1maWxlLmxvY2sAABMAAS8A
+				ABUAAgAU//8AAA==
 				</data>
 				<key>FileURL</key>
-				<string>file://localhost/Users/andrewrobbins/src/sample_app/config.ru</string>
+				<string>file://localhost/Users/andrewrobbins/src/sample_app/Gemfile.lock</string>
 				<key>RelativePath</key>
-				<string>./config.ru</string>
+				<string>./Gemfile.lock</string>
 				<key>TypeID</key>
 				<string>_CFileLocator</string>
 				<key>Version</key>
 				<integer>1</integer>
 			</dict>
 			<key>ItemName</key>
-			<string>config.ru</string>
+			<string>Gemfile.lock</string>
 			<key>ItemType</key>
 			<string>FileReference</string>
 			<key>UserOverrideItemName</key>
 			<true/>
 		</dict>
-		<key>BCBAF176-78B3-4EE3-BB35-D5FEA7068770</key>
+		<key>2E04948F-2B02-4D2C-A338-129C1D6BA787</key>
+		<dict>
+			<key>ItemData</key>
+			<dict>
+				<key>AliasData</key>
+				<data>
+				AAAAAAGiAAIAAA5KYXlhdmFybWFuIFZJSQAAAAAAAAAA
+				AAAAAADJhKxaSCsAAAAT2NgPUkVBRE1FLm1hcmtkb3du
+				AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+				AAAAAAAAAAAAAAAAAAAAABPY2cpjCsdURVhUAAAAAP//
+				//8AAAkgAAAAAAAAAAAAAAAAAAAACnNhbXBsZV9hcHAA
+				EAAIAADJhRzaAAAAEQAIAADKY203AAAAAQAQABPY2AAP
+				GaAACH9ZAACYPgACAEFKYXlhdmFybWFuIFZJSTpVc2Vy
+				czphbmRyZXdyb2JiaW5zOnNyYzpzYW1wbGVfYXBwOlJF
+				QURNRS5tYXJrZG93bgAADgAgAA8AUgBFAEEARABNAEUA
+				LgBtAGEAcgBrAGQAbwB3AG4ADwAeAA4ASgBhAHkAYQB2
+				AGEAcgBtAGEAbgAgAFYASQBJABIAMlVzZXJzL2FuZHJl
+				d3JvYmJpbnMvc3JjL3NhbXBsZV9hcHAvUkVBRE1FLm1h
+				cmtkb3duABMAAS8AABUAAgAU//8AAA==
+				</data>
+				<key>FileURL</key>
+				<string>file://localhost/Users/andrewrobbins/src/sample_app/README.markdown</string>
+				<key>RelativePath</key>
+				<string>./README.markdown</string>
+				<key>TypeID</key>
+				<string>_CFileLocator</string>
+				<key>Version</key>
+				<integer>1</integer>
+			</dict>
+			<key>ItemName</key>
+			<string>README.markdown</string>
+			<key>ItemType</key>
+			<string>FileReference</string>
+			<key>UserOverrideItemName</key>
+			<true/>
+		</dict>
+		<key>4B19EACE-5988-4DE9-BECD-8801C27F17A3</key>
+		<dict>
+			<key>ItemData</key>
+			<dict>
+				<key>AliasData</key>
+				<data>
+				AAAAAAFyAAIAAQ5KYXlhdmFybWFuIFZJSQAAAAAAAAAA
+				AAAAAADJhKxaSCsAAAAT2NgDZG9jAAAAAAAAAAAAAAAA
+				AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+				AAAAAAAAAAAAAAAAAAAAABPY/MpjCscAAAAAAAAAAP//
+				//8AAAkgAAAAAAAAAAAAAAAAAAAACnNhbXBsZV9hcHAA
+				EAAIAADJhRzaAAAAEQAIAADKY203AAAAAQAQABPY2AAP
+				GaAACH9ZAACYPgACADVKYXlhdmFybWFuIFZJSTpVc2Vy
+				czphbmRyZXdyb2JiaW5zOnNyYzpzYW1wbGVfYXBwOmRv
+				YwAADgAIAAMAZABvAGMADwAeAA4ASgBhAHkAYQB2AGEA
+				cgBtAGEAbgAgAFYASQBJABIAJlVzZXJzL2FuZHJld3Jv
+				YmJpbnMvc3JjL3NhbXBsZV9hcHAvZG9jABMAAS8AABUA
+				AgAU//8AAA==
+				</data>
+				<key>FileURL</key>
+				<string>file://localhost/Users/andrewrobbins/src/sample_app/doc/</string>
+				<key>RelativePath</key>
+				<string>./doc</string>
+				<key>TypeID</key>
+				<string>_CFileLocator</string>
+				<key>Version</key>
+				<integer>1</integer>
+			</dict>
+			<key>ItemName</key>
+			<string>doc</string>
+			<key>ItemType</key>
+			<string>FolderReference</string>
+			<key>UserOverrideItemName</key>
+			<true/>
+		</dict>
+		<key>7D0DA476-F642-42C8-ABCC-E898F3881D8A</key>
 		<dict>
 			<key>ItemData</key>
 			<dict>
@@ -443,7 +271,7 @@
 			<key>UserOverrideItemName</key>
 			<true/>
 		</dict>
-		<key>CA7C3EEC-4721-4142-8412-EA5A6D79537E</key>
+		<key>7E1CFB28-C79F-4EDC-AAE2-6E45E8DE13F4</key>
 		<dict>
 			<key>ItemData</key>
 			<dict>
@@ -475,80 +303,220 @@
 			<string>Gemfile</string>
 			<key>ItemType</key>
 			<string>FileReference</string>
-		</dict>
-		<key>EA0D303D-7193-445B-9799-9EF026C6A83F</key>
-		<dict>
-			<key>ItemData</key>
-			<dict>
-				<key>AliasData</key>
-				<data>
-				AAAAAAG6AAIAAQ5KYXlhdmFybWFuIFZJSQAAAAAAAAAA
-				AAAAAADJhKxaSCsAAAAT2NgVc2FtcGxlX2FwcC5iYnBy
-				b2plY3RkAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
-				AAAAAAAAAAAAAAAAAAAAABPZJMpjCuQAAAAAAAAAAP//
-				//8AAAkgAAAAAAAAAAAAAAAAAAAACnNhbXBsZV9hcHAA
-				EAAIAADJhRzaAAAAEQAIAADKY21UAAAAAQAQABPY2AAP
-				GaAACH9ZAACYPgACAEdKYXlhdmFybWFuIFZJSTpVc2Vy
-				czphbmRyZXdyb2JiaW5zOnNyYzpzYW1wbGVfYXBwOnNh
-				bXBsZV9hcHAuYmJwcm9qZWN0ZAAADgAsABUAcwBhAG0A
-				cABsAGUAXwBhAHAAcAAuAGIAYgBwAHIAbwBqAGUAYwB0
-				AGQADwAeAA4ASgBhAHkAYQB2AGEAcgBtAGEAbgAgAFYA
-				SQBJABIAOFVzZXJzL2FuZHJld3JvYmJpbnMvc3JjL3Nh
-				bXBsZV9hcHAvc2FtcGxlX2FwcC5iYnByb2plY3RkABMA
-				AS8AABUAAgAU//8AAA==
-				</data>
-				<key>FileURL</key>
-				<string>file://localhost/Users/andrewrobbins/src/sample_app/sample_app.bbprojectd/</string>
-				<key>RelativePath</key>
-				<string>./sample_app.bbprojectd</string>
-				<key>TypeID</key>
-				<string>_CFileLocator</string>
-				<key>Version</key>
-				<integer>1</integer>
-			</dict>
-			<key>ItemName</key>
-			<string>sample_app.bbprojectd</string>
-			<key>ItemType</key>
-			<string>PackageReference</string>
 			<key>UserOverrideItemName</key>
 			<true/>
 		</dict>
-		<key>FB691C6A-16DB-4E7E-8A50-1C0AF7B48089</key>
+		<key>81EF7DB9-08AA-4D24-8F37-417173BF2779</key>
 		<dict>
 			<key>ItemData</key>
 			<dict>
 				<key>AliasData</key>
 				<data>
 				AAAAAAFyAAIAAQ5KYXlhdmFybWFuIFZJSQAAAAAAAAAA
-				AAAAAADJhKxaSCsAAAAT2NgDbG9nAAAAAAAAAAAAAAAA
+				AAAAAADJhKxaSCsAAAAT2NgDbGliAAAAAAAAAAAAAAAA
 				AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
-				AAAAAAAAAAAAAAAAAAAAABPZAcpjCscAAAAAAAAAAP//
+				AAAAAAAAAAAAAAAAAAAAABPY/spjCscAAAAAAAAAAP//
 				//8AAAkgAAAAAAAAAAAAAAAAAAAACnNhbXBsZV9hcHAA
 				EAAIAADJhRzaAAAAEQAIAADKY203AAAAAQAQABPY2AAP
 				GaAACH9ZAACYPgACADVKYXlhdmFybWFuIFZJSTpVc2Vy
-				czphbmRyZXdyb2JiaW5zOnNyYzpzYW1wbGVfYXBwOmxv
-				ZwAADgAIAAMAbABvAGcADwAeAA4ASgBhAHkAYQB2AGEA
+				czphbmRyZXdyb2JiaW5zOnNyYzpzYW1wbGVfYXBwOmxp
+				YgAADgAIAAMAbABpAGIADwAeAA4ASgBhAHkAYQB2AGEA
 				cgBtAGEAbgAgAFYASQBJABIAJlVzZXJzL2FuZHJld3Jv
-				YmJpbnMvc3JjL3NhbXBsZV9hcHAvbG9nABMAAS8AABUA
+				YmJpbnMvc3JjL3NhbXBsZV9hcHAvbGliABMAAS8AABUA
 				AgAU//8AAA==
 				</data>
 				<key>FileURL</key>
-				<string>file://localhost/Users/andrewrobbins/src/sample_app/log/</string>
+				<string>file://localhost/Users/andrewrobbins/src/sample_app/lib/</string>
 				<key>RelativePath</key>
-				<string>./log</string>
+				<string>./lib</string>
 				<key>TypeID</key>
 				<string>_CFileLocator</string>
 				<key>Version</key>
 				<integer>1</integer>
 			</dict>
 			<key>ItemName</key>
-			<string>log</string>
+			<string>lib</string>
 			<key>ItemType</key>
 			<string>FolderReference</string>
 			<key>UserOverrideItemName</key>
 			<true/>
 		</dict>
-		<key>FBCA4886-B2BA-4E15-85D4-001F6A7F7D55</key>
+		<key>86D97E9F-0326-43FC-A169-670BCEDEE399</key>
+		<dict>
+			<key>ItemData</key>
+			<dict>
+				<key>AliasData</key>
+				<data>
+				AAAAAAF+AAIAAQ5KYXlhdmFybWFuIFZJSQAAAAAAAAAA
+				AAAAAADJhKxaSCsAAAAT2NgGcHVibGljAAAAAAAAAAAA
+				AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+				AAAAAAAAAAAAAAAAAAAAABPZBspjCscAAAAAAAAAAP//
+				//8AAAkgAAAAAAAAAAAAAAAAAAAACnNhbXBsZV9hcHAA
+				EAAIAADJhRzaAAAAEQAIAADKY203AAAAAQAQABPY2AAP
+				GaAACH9ZAACYPgACADhKYXlhdmFybWFuIFZJSTpVc2Vy
+				czphbmRyZXdyb2JiaW5zOnNyYzpzYW1wbGVfYXBwOnB1
+				YmxpYwAOAA4ABgBwAHUAYgBsAGkAYwAPAB4ADgBKAGEA
+				eQBhAHYAYQByAG0AYQBuACAAVgBJAEkAEgApVXNlcnMv
+				YW5kcmV3cm9iYmlucy9zcmMvc2FtcGxlX2FwcC9wdWJs
+				aWMAABMAAS8AABUAAgAU//8AAA==
+				</data>
+				<key>FileURL</key>
+				<string>file://localhost/Users/andrewrobbins/src/sample_app/public/</string>
+				<key>RelativePath</key>
+				<string>./public</string>
+				<key>TypeID</key>
+				<string>_CFileLocator</string>
+				<key>Version</key>
+				<integer>1</integer>
+			</dict>
+			<key>ItemName</key>
+			<string>public</string>
+			<key>ItemType</key>
+			<string>FolderReference</string>
+			<key>UserOverrideItemName</key>
+			<true/>
+		</dict>
+		<key>95D76E86-CCB7-4E2C-8339-72AAF1177754</key>
+		<dict>
+			<key>ItemData</key>
+			<dict>
+				<key>AliasData</key>
+				<data>
+				AAAAAAGKAAIAAA5KYXlhdmFybWFuIFZJSQAAAAAAAAAA
+				AAAAAADJhKxaSCsAAAAT2NgJY29uZmlnLnJ1AAAAAAAA
+				AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+				AAAAAAAAAAAAAAAAAAAAABPY28pjCscAAAAAAAAAAP//
+				//8AAAkgAAAAAAAAAAAAAAAAAAAACnNhbXBsZV9hcHAA
+				EAAIAADJhRzaAAAAEQAIAADKY203AAAAAQAQABPY2AAP
+				GaAACH9ZAACYPgACADtKYXlhdmFybWFuIFZJSTpVc2Vy
+				czphbmRyZXdyb2JiaW5zOnNyYzpzYW1wbGVfYXBwOmNv
+				bmZpZy5ydQAADgAUAAkAYwBvAG4AZgBpAGcALgByAHUA
+				DwAeAA4ASgBhAHkAYQB2AGEAcgBtAGEAbgAgAFYASQBJ
+				ABIALFVzZXJzL2FuZHJld3JvYmJpbnMvc3JjL3NhbXBs
+				ZV9hcHAvY29uZmlnLnJ1ABMAAS8AABUAAgAU//8AAA==
+				</data>
+				<key>FileURL</key>
+				<string>file://localhost/Users/andrewrobbins/src/sample_app/config.ru</string>
+				<key>RelativePath</key>
+				<string>./config.ru</string>
+				<key>TypeID</key>
+				<string>_CFileLocator</string>
+				<key>Version</key>
+				<integer>1</integer>
+			</dict>
+			<key>ItemName</key>
+			<string>config.ru</string>
+			<key>ItemType</key>
+			<string>FileReference</string>
+			<key>UserOverrideItemName</key>
+			<true/>
+		</dict>
+		<key>BB218C36-F18C-4BE7-9B5C-8266E953AE80</key>
+		<dict>
+			<key>ItemData</key>
+			<dict>
+				<key>AliasData</key>
+				<data>
+				AAAAAAF+AAIAAQ5KYXlhdmFybWFuIFZJSQAAAAAAAAAA
+				AAAAAADJhKxaSCsAAAAT2NgGc2NyaXB0AAAAAAAAAAAA
+				AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+				AAAAAAAAAAAAAAAAAAAAABPZGMpjCscAAAAAAAAAAP//
+				//8AAAkgAAAAAAAAAAAAAAAAAAAACnNhbXBsZV9hcHAA
+				EAAIAADJhRzaAAAAEQAIAADKY203AAAAAQAQABPY2AAP
+				GaAACH9ZAACYPgACADhKYXlhdmFybWFuIFZJSTpVc2Vy
+				czphbmRyZXdyb2JiaW5zOnNyYzpzYW1wbGVfYXBwOnNj
+				cmlwdAAOAA4ABgBzAGMAcgBpAHAAdAAPAB4ADgBKAGEA
+				eQBhAHYAYQByAG0AYQBuACAAVgBJAEkAEgApVXNlcnMv
+				YW5kcmV3cm9iYmlucy9zcmMvc2FtcGxlX2FwcC9zY3Jp
+				cHQAABMAAS8AABUAAgAU//8AAA==
+				</data>
+				<key>FileURL</key>
+				<string>file://localhost/Users/andrewrobbins/src/sample_app/script/</string>
+				<key>RelativePath</key>
+				<string>./script</string>
+				<key>TypeID</key>
+				<string>_CFileLocator</string>
+				<key>Version</key>
+				<integer>1</integer>
+			</dict>
+			<key>ItemName</key>
+			<string>script</string>
+			<key>ItemType</key>
+			<string>FolderReference</string>
+			<key>UserOverrideItemName</key>
+			<true/>
+		</dict>
+		<key>C6D916AF-6770-4344-B6A2-2BA4C40D3C94</key>
+		<dict>
+			<key>ItemData</key>
+			<dict>
+				<key>AliasData</key>
+				<data>
+				AAAAAAFyAAIAAQ5KYXlhdmFybWFuIFZJSQAAAAAAAAAA
+				AAAAAADJhKxaSCsAAAAT2NgDYmluAAAAAAAAAAAAAAAA
+				AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+				AAAAAAAAAAAAAAAAAAAAABP3ospjU3oAAAAAAAAAAP//
+				//8AAAkgAAAAAAAAAAAAAAAAAAAACnNhbXBsZV9hcHAA
+				EAAIAADJhRzaAAAAEQAIAADKY7XqAAAAAQAQABPY2AAP
+				GaAACH9ZAACYPgACADVKYXlhdmFybWFuIFZJSTpVc2Vy
+				czphbmRyZXdyb2JiaW5zOnNyYzpzYW1wbGVfYXBwOmJp
+				bgAADgAIAAMAYgBpAG4ADwAeAA4ASgBhAHkAYQB2AGEA
+				cgBtAGEAbgAgAFYASQBJABIAJlVzZXJzL2FuZHJld3Jv
+				YmJpbnMvc3JjL3NhbXBsZV9hcHAvYmluABMAAS8AABUA
+				AgAU//8AAA==
+				</data>
+				<key>FileURL</key>
+				<string>file://localhost/Users/andrewrobbins/src/sample_app/bin/</string>
+				<key>RelativePath</key>
+				<string>./bin</string>
+				<key>TypeID</key>
+				<string>_CFileLocator</string>
+				<key>Version</key>
+				<integer>1</integer>
+			</dict>
+			<key>ItemName</key>
+			<string>bin</string>
+			<key>ItemType</key>
+			<string>FolderReference</string>
+			<key>UserOverrideItemName</key>
+			<true/>
+		</dict>
+		<key>D2CCDF2D-5AB1-4888-85B6-C82BC7CF4B0A</key>
+		<dict>
+			<key>ItemData</key>
+			<dict>
+				<key>AliasData</key>
+				<data>
+				AAAAAAF2AAIAAQ5KYXlhdmFybWFuIFZJSQAAAAAAAAAA
+				AAAAAADJhKxaSCsAAAAT2NgEc3BlYwAAAAAAAAAAAAAA
+				AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+				AAAAAAAAAAAAAAAAAAAAABPpkcpjMiAAAAAAAAAAAP//
+				//8AAAkgAAAAAAAAAAAAAAAAAAAACnNhbXBsZV9hcHAA
+				EAAIAADJhRzaAAAAEQAIAADKY5SQAAAAAQAQABPY2AAP
+				GaAACH9ZAACYPgACADZKYXlhdmFybWFuIFZJSTpVc2Vy
+				czphbmRyZXdyb2JiaW5zOnNyYzpzYW1wbGVfYXBwOnNw
+				ZWMADgAKAAQAcwBwAGUAYwAPAB4ADgBKAGEAeQBhAHYA
+				YQByAG0AYQBuACAAVgBJAEkAEgAnVXNlcnMvYW5kcmV3
+				cm9iYmlucy9zcmMvc2FtcGxlX2FwcC9zcGVjAAATAAEv
+				AAAVAAIAFP//AAA=
+				</data>
+				<key>FileURL</key>
+				<string>file://localhost/Users/andrewrobbins/src/sample_app/spec/</string>
+				<key>RelativePath</key>
+				<string>./spec</string>
+				<key>TypeID</key>
+				<string>_CFileLocator</string>
+				<key>Version</key>
+				<integer>1</integer>
+			</dict>
+			<key>ItemName</key>
+			<string>spec</string>
+			<key>ItemType</key>
+			<string>FolderReference</string>
+			<key>UserOverrideItemName</key>
+			<true/>
+		</dict>
+		<key>E21136C9-4854-4E84-9B41-14FBC660EA48</key>
 		<dict>
 			<key>ItemData</key>
 			<dict>
@@ -578,6 +546,76 @@
 			</dict>
 			<key>ItemName</key>
 			<string>tmp</string>
+			<key>ItemType</key>
+			<string>FolderReference</string>
+			<key>UserOverrideItemName</key>
+			<true/>
+		</dict>
+		<key>E8E93E5C-7EEF-4FB1-BB1F-B88CB8386D01</key>
+		<dict>
+			<key>ItemData</key>
+			<dict>
+				<key>AliasData</key>
+				<data>
+				AAAAAAF+AAIAAQ5KYXlhdmFybWFuIFZJSQAAAAAAAAAA
+				AAAAAADJhKxaSCsAAAAT2NgGY29uZmlnAAAAAAAAAAAA
+				AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+				AAAAAAAAAAAAAAAAAAAAABPY6MpjCscAAAAAAAAAAP//
+				//8AAAkgAAAAAAAAAAAAAAAAAAAACnNhbXBsZV9hcHAA
+				EAAIAADJhRzaAAAAEQAIAADKY203AAAAAQAQABPY2AAP
+				GaAACH9ZAACYPgACADhKYXlhdmFybWFuIFZJSTpVc2Vy
+				czphbmRyZXdyb2JiaW5zOnNyYzpzYW1wbGVfYXBwOmNv
+				bmZpZwAOAA4ABgBjAG8AbgBmAGkAZwAPAB4ADgBKAGEA
+				eQBhAHYAYQByAG0AYQBuACAAVgBJAEkAEgApVXNlcnMv
+				YW5kcmV3cm9iYmlucy9zcmMvc2FtcGxlX2FwcC9jb25m
+				aWcAABMAAS8AABUAAgAU//8AAA==
+				</data>
+				<key>FileURL</key>
+				<string>file://localhost/Users/andrewrobbins/src/sample_app/config/</string>
+				<key>RelativePath</key>
+				<string>./config</string>
+				<key>TypeID</key>
+				<string>_CFileLocator</string>
+				<key>Version</key>
+				<integer>1</integer>
+			</dict>
+			<key>ItemName</key>
+			<string>config</string>
+			<key>ItemType</key>
+			<string>FolderReference</string>
+			<key>UserOverrideItemName</key>
+			<true/>
+		</dict>
+		<key>EAF5ED6B-34C1-406D-A7A8-2F0A3B93317E</key>
+		<dict>
+			<key>ItemData</key>
+			<dict>
+				<key>AliasData</key>
+				<data>
+				AAAAAAFyAAIAAQ5KYXlhdmFybWFuIFZJSQAAAAAAAAAA
+				AAAAAADJhKxaSCsAAAAT2NgDbG9nAAAAAAAAAAAAAAAA
+				AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+				AAAAAAAAAAAAAAAAAAAAABPZAcpjCscAAAAAAAAAAP//
+				//8AAAkgAAAAAAAAAAAAAAAAAAAACnNhbXBsZV9hcHAA
+				EAAIAADJhRzaAAAAEQAIAADKY203AAAAAQAQABPY2AAP
+				GaAACH9ZAACYPgACADVKYXlhdmFybWFuIFZJSTpVc2Vy
+				czphbmRyZXdyb2JiaW5zOnNyYzpzYW1wbGVfYXBwOmxv
+				ZwAADgAIAAMAbABvAGcADwAeAA4ASgBhAHkAYQB2AGEA
+				cgBtAGEAbgAgAFYASQBJABIAJlVzZXJzL2FuZHJld3Jv
+				YmJpbnMvc3JjL3NhbXBsZV9hcHAvbG9nABMAAS8AABUA
+				AgAU//8AAA==
+				</data>
+				<key>FileURL</key>
+				<string>file://localhost/Users/andrewrobbins/src/sample_app/log/</string>
+				<key>RelativePath</key>
+				<string>./log</string>
+				<key>TypeID</key>
+				<string>_CFileLocator</string>
+				<key>Version</key>
+				<integer>1</integer>
+			</dict>
+			<key>ItemName</key>
+			<string>log</string>
 			<key>ItemType</key>
 			<string>FolderReference</string>
 			<key>UserOverrideItemName</key>
