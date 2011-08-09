@@ -5,7 +5,7 @@
 	<key>EmbeddedEditorHidden:andrewrobbins</key>
 	<false/>
 	<key>ExpandedEditorWidth:andrewrobbins:displays([(0, 0), (2560, 1440)])</key>
-	<integer>764</integer>
+	<integer>717</integer>
 	<key>ExpandedItems:andrewrobbins</key>
 	<array>
 		<string>89E837A5-933E-4AD8-97E0-F13034A9CD8F</string>
@@ -26,6 +26,28 @@
 			</data>
 			<key>FileURL</key>
 			<string>file://localhost/Users/andrewrobbins/src/sample_app/app/controllers/</string>
+			<key>TypeID</key>
+			<string>_CFileLocator</string>
+			<key>Version</key>
+			<integer>1</integer>
+		</dict>
+		<dict>
+			<key>AliasData</key>
+			<data>
+			AAAAAAGIAAIAAQ5KYXlhdmFybWFuIFZJSQAAAAAAAAAAAAAAAADJ
+			hKxaSCsAAAAT2N4HaGVscGVycwAAAAAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABPY
+			4cpjCscAAAAAAAAAAP////8AAAkgAAAAAAAAAAAAAAAAAAAAA2Fw
+			cAAAEAAIAADJhRzaAAAAEQAIAADKY203AAAAAQAUABPY3gAT2NgA
+			DxmgAAh/WQAAmD4AAgA9SmF5YXZhcm1hbiBWSUk6VXNlcnM6YW5k
+			cmV3cm9iYmluczpzcmM6c2FtcGxlX2FwcDphcHA6aGVscGVycwAA
+			DgAQAAcAaABlAGwAcABlAHIAcwAPAB4ADgBKAGEAeQBhAHYAYQBy
+			AG0AYQBuACAAVgBJAEkAEgAuVXNlcnMvYW5kcmV3cm9iYmlucy9z
+			cmMvc2FtcGxlX2FwcC9hcHAvaGVscGVycwATAAEvAAAVAAIAFP//
+			AAA=
+			</data>
+			<key>FileURL</key>
+			<string>file://localhost/Users/andrewrobbins/src/sample_app/app/helpers/</string>
 			<key>TypeID</key>
 			<string>_CFileLocator</string>
 			<key>Version</key>
@@ -79,9 +101,9 @@
 			<data>
 			AAAAAAGSAAIAAQ5KYXlhdmFybWFuIFZJSQAAAAAAAAAAAAAAAADJ
 			hKxaSCsAAAAT2OUFcGFnZXMAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
-			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABPu
-			XMpjP4gAAAAAAAAAAP////8AAAkgAAAAAAAAAAAAAAAAAAAABXZp
-			ZXdzAAAQAAgAAMmFHNoAAAARAAgAAMpjofgAAAABABgAE9jlABPY
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABP3
+			nspjU3oAAAAAAAAAAP////8AAAkgAAAAAAAAAAAAAAAAAAAABXZp
+			ZXdzAAAQAAgAAMmFHNoAAAARAAgAAMpjteoAAAABABgAE9jlABPY
 			3gAT2NgADxmgAAh/WQAAmD4AAgBBSmF5YXZhcm1hbiBWSUk6VXNl
 			cnM6YW5kcmV3cm9iYmluczpzcmM6c2FtcGxlX2FwcDphcHA6dmll
 			d3M6cGFnZXMAAA4ADAAFAHAAYQBnAGUAcwAPAB4ADgBKAGEAeQBh
@@ -98,15 +120,37 @@
 		</dict>
 		<string>9C75A130-A7C6-46CE-A4AC-CA16BAD828ED</string>
 		<string>0FA6245B-F68E-4BE0-96A5-63A378F8C933</string>
+		<dict>
+			<key>AliasData</key>
+			<data>
+			AAAAAAGgAAIAAQ5KYXlhdmFybWFuIFZJSQAAAAAAAAAAAAAAAADJ
+			hKxaSCsAAAAT2QYLc3R5bGVzaGVldHMAAAAAAAAAAAAAAAAAAAAA
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABPZ
+			D8pjCscAAAAAAAAAAP////8AAAkgAAAAAAAAAAAAAAAAAAAABnB1
+			YmxpYwAQAAgAAMmFHNoAAAARAAgAAMpjbTcAAAABABQAE9kGABPY
+			2AAPGaAACH9ZAACYPgACAERKYXlhdmFybWFuIFZJSTpVc2Vyczph
+			bmRyZXdyb2JiaW5zOnNyYzpzYW1wbGVfYXBwOnB1YmxpYzpzdHls
+			ZXNoZWV0cwAOABgACwBzAHQAeQBsAGUAcwBoAGUAZQB0AHMADwAe
+			AA4ASgBhAHkAYQB2AGEAcgBtAGEAbgAgAFYASQBJABIANVVzZXJz
+			L2FuZHJld3JvYmJpbnMvc3JjL3NhbXBsZV9hcHAvcHVibGljL3N0
+			eWxlc2hlZXRzAAATAAEvAAAVAAIAFP//AAA=
+			</data>
+			<key>FileURL</key>
+			<string>file://localhost/Users/andrewrobbins/src/sample_app/public/stylesheets/</string>
+			<key>TypeID</key>
+			<string>_CFileLocator</string>
+			<key>Version</key>
+			<integer>1</integer>
+		</dict>
 		<string>2182DEC2-9B1D-4D75-8DD1-D7D271CA7452</string>
 		<dict>
 			<key>AliasData</key>
 			<data>
 			AAAAAAGaAAIAAQ5KYXlhdmFybWFuIFZJSQAAAAAAAAAAAAAAAADJ
 			hKxaSCsAAAAT6ZELY29udHJvbGxlcnMAAAAAAAAAAAAAAAAAAAAA
-			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABPu
-			X8pjP4gAAAAAAAAAAP////8AAAkgAAAAAAAAAAAAAAAAAAAABHNw
-			ZWMAEAAIAADJhRzaAAAAEQAIAADKY6H4AAAAAQAUABPpkQAT2NgA
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABP3
+			tspjU3oAAAAAAAAAAP////8AAAkgAAAAAAAAAAAAAAAAAAAABHNw
+			ZWMAEAAIAADJhRzaAAAAEQAIAADKY7XqAAAAAQAUABPpkQAT2NgA
 			DxmgAAh/WQAAmD4AAgBCSmF5YXZhcm1hbiBWSUk6VXNlcnM6YW5k
 			cmV3cm9iYmluczpzcmM6c2FtcGxlX2FwcDpzcGVjOmNvbnRyb2xs
 			ZXJzAA4AGAALAGMAbwBuAHQAcgBvAGwAbABlAHIAcwAPAB4ADgBK
@@ -121,6 +165,28 @@
 			<key>Version</key>
 			<integer>1</integer>
 		</dict>
+		<dict>
+			<key>AliasData</key>
+			<data>
+			AAAAAAGOAAIAAQ5KYXlhdmFybWFuIFZJSQAAAAAAAAAAAAAAAADJ
+			hKxaSCsAAAAT6ZEIcmVxdWVzdHMAAAAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABQE
+			UcpllQIAAAAAAAAAAP////8AAAkgAAAAAAAAAAAAAAAAAAAABHNw
+			ZWMAEAAIAADJhRzaAAAAEQAIAADKZfdyAAAAAQAUABPpkQAT2NgA
+			DxmgAAh/WQAAmD4AAgA/SmF5YXZhcm1hbiBWSUk6VXNlcnM6YW5k
+			cmV3cm9iYmluczpzcmM6c2FtcGxlX2FwcDpzcGVjOnJlcXVlc3Rz
+			AAAOABIACAByAGUAcQB1AGUAcwB0AHMADwAeAA4ASgBhAHkAYQB2
+			AGEAcgBtAGEAbgAgAFYASQBJABIAMFVzZXJzL2FuZHJld3JvYmJp
+			bnMvc3JjL3NhbXBsZV9hcHAvc3BlYy9yZXF1ZXN0cwATAAEvAAAV
+			AAIAFP//AAA=
+			</data>
+			<key>FileURL</key>
+			<string>file://localhost/Users/andrewrobbins/src/sample_app/spec/requests/</string>
+			<key>TypeID</key>
+			<string>_CFileLocator</string>
+			<key>Version</key>
+			<integer>1</integer>
+		</dict>
 	</array>
 	<key>FileFilterID:andrewrobbins</key>
 	<string>msng</string>
@@ -129,11 +195,85 @@
 		<dict>
 			<key>AliasData</key>
 			<data>
+			AAAAAAGYAAIAAA5KYXlhdmFybWFuIFZJSQAAAAAAAAAAAAAAAADJ
+			hKxaSCsAAAAT2OgJcm91dGVzLnJiAAAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABP3
+			scpjU3pURVhUAAAAAP////8AAAkgAAAAAAAAAAAAAAAAAAAABmNv
+			bmZpZwAQAAgAAMmFHNoAAAARAAgAAMpjteoAAAABABQAE9joABPY
+			2AAPGaAACH9ZAACYPgACAEJKYXlhdmFybWFuIFZJSTpVc2Vyczph
+			bmRyZXdyb2JiaW5zOnNyYzpzYW1wbGVfYXBwOmNvbmZpZzpyb3V0
+			ZXMucmIADgAUAAkAcgBvAHUAdABlAHMALgByAGIADwAeAA4ASgBh
+			AHkAYQB2AGEAcgBtAGEAbgAgAFYASQBJABIAM1VzZXJzL2FuZHJl
+			d3JvYmJpbnMvc3JjL3NhbXBsZV9hcHAvY29uZmlnL3JvdXRlcy5y
+			YgAAEwABLwAAFQACABT//wAA
+			</data>
+			<key>FileURL</key>
+			<string>file://localhost/Users/andrewrobbins/src/sample_app/config/routes.rb</string>
+			<key>RelativePath</key>
+			<string>./config/routes.rb</string>
+			<key>TypeID</key>
+			<string>_CFileLocator</string>
+			<key>Version</key>
+			<integer>1</integer>
+		</dict>
+		<dict>
+			<key>AliasData</key>
+			<data>
+			AAAAAAHCAAIAAA5KYXlhdmFybWFuIFZJSQAAAAAAAAAAAAAAAADJ
+			hKxaSCsAAAAT954NaGVscC5odG1sLmVyYgAAAAAAAAAAAAAAAAAA
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABQE
+			gspllipURVhUAAAAAP////8AAAkgAAAAAAAAAAAAAAAAAAAABXBh
+			Z2VzAAAQAAgAAMmFHNoAAAARAAgAAMpl+JoAAAABABwAE/eeABPY
+			5QAT2N4AE9jYAA8ZoAAIf1kAAJg+AAIAT0pheWF2YXJtYW4gVklJ
+			OlVzZXJzOmFuZHJld3JvYmJpbnM6c3JjOnNhbXBsZV9hcHA6YXBw
+			OnZpZXdzOnBhZ2VzOmhlbHAuaHRtbC5lcmIAAA4AHAANAGgAZQBs
+			AHAALgBoAHQAbQBsAC4AZQByAGIADwAeAA4ASgBhAHkAYQB2AGEA
+			cgBtAGEAbgAgAFYASQBJABIAQFVzZXJzL2FuZHJld3JvYmJpbnMv
+			c3JjL3NhbXBsZV9hcHAvYXBwL3ZpZXdzL3BhZ2VzL2hlbHAuaHRt
+			bC5lcmIAEwABLwAAFQACABT//wAA
+			</data>
+			<key>FileURL</key>
+			<string>file://localhost/Users/andrewrobbins/src/sample_app/app/views/pages/help.html.erb</string>
+			<key>RelativePath</key>
+			<string>./app/views/pages/help.html.erb</string>
+			<key>TypeID</key>
+			<string>_CFileLocator</string>
+			<key>Version</key>
+			<integer>1</integer>
+		</dict>
+		<dict>
+			<key>AliasData</key>
+			<data>
+			AAAAAAHCAAIAAA5KYXlhdmFybWFuIFZJSQAAAAAAAAAAAAAAAADJ
+			hKxaSCsAAAAT954NaG9tZS5odG1sLmVyYgAAAAAAAAAAAAAAAAAA
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABP3
+			ocpjU3pURVhUAAAAAP////8AAAkgAAAAAAAAAAAAAAAAAAAABXBh
+			Z2VzAAAQAAgAAMmFHNoAAAARAAgAAMpjteoAAAABABwAE/eeABPY
+			5QAT2N4AE9jYAA8ZoAAIf1kAAJg+AAIAT0pheWF2YXJtYW4gVklJ
+			OlVzZXJzOmFuZHJld3JvYmJpbnM6c3JjOnNhbXBsZV9hcHA6YXBw
+			OnZpZXdzOnBhZ2VzOmhvbWUuaHRtbC5lcmIAAA4AHAANAGgAbwBt
+			AGUALgBoAHQAbQBsAC4AZQByAGIADwAeAA4ASgBhAHkAYQB2AGEA
+			cgBtAGEAbgAgAFYASQBJABIAQFVzZXJzL2FuZHJld3JvYmJpbnMv
+			c3JjL3NhbXBsZV9hcHAvYXBwL3ZpZXdzL3BhZ2VzL2hvbWUuaHRt
+			bC5lcmIAEwABLwAAFQACABT//wAA
+			</data>
+			<key>FileURL</key>
+			<string>file://localhost/Users/andrewrobbins/src/sample_app/app/views/pages/home.html.erb</string>
+			<key>RelativePath</key>
+			<string>./app/views/pages/home.html.erb</string>
+			<key>TypeID</key>
+			<string>_CFileLocator</string>
+			<key>Version</key>
+			<integer>1</integer>
+		</dict>
+		<dict>
+			<key>AliasData</key>
+			<data>
 			AAAAAAHcAAIAAA5KYXlhdmFybWFuIFZJSQAAAAAAAAAAAAAAAADJ
 			hKxaSCsAAAAT2N8TcGFnZXNfY29udHJvbGxlci5yYgAAAAAAAAAA
-			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABPu
-			W8pjP4hURVhUAAAAAP////8AAAkgAAAAAAAAAAAAAAAAAAAAC2Nv
-			bnRyb2xsZXJzAAAQAAgAAMmFHNoAAAARAAgAAMpjofgAAAABABgA
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABP3
+			m8pjU3pURVhUAAAAAP////8AAAkgAAAAAAAAAAAAAAAAAAAAC2Nv
+			bnRyb2xsZXJzAAAQAAgAAMmFHNoAAAARAAgAAMpjteoAAAABABgA
 			E9jfABPY3gAT2NgADxmgAAh/WQAAmD4AAgBVSmF5YXZhcm1hbiBW
 			SUk6VXNlcnM6YW5kcmV3cm9iYmluczpzcmM6c2FtcGxlX2FwcDph
 			cHA6Y29udHJvbGxlcnM6cGFnZXNfY29udHJvbGxlci5yYgAADgAo
@@ -155,23 +295,23 @@
 		<dict>
 			<key>AliasData</key>
 			<data>
-			AAAAAAHCAAIAAA5KYXlhdmFybWFuIFZJSQAAAAAAAAAAAAAAAADJ
-			hKxaSCsAAAAT7lwNaG9tZS5odG1sLmVyYgAAAAAAAAAAAAAAAAAA
-			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABPu
-			XcpjP4hURVhUAAAAAP////8AAAkgAAAAAAAAAAAAAAAAAAAABXBh
-			Z2VzAAAQAAgAAMmFHNoAAAARAAgAAMpjofgAAAABABwAE+5cABPY
-			5QAT2N4AE9jYAA8ZoAAIf1kAAJg+AAIAT0pheWF2YXJtYW4gVklJ
-			OlVzZXJzOmFuZHJld3JvYmJpbnM6c3JjOnNhbXBsZV9hcHA6YXBw
-			OnZpZXdzOnBhZ2VzOmhvbWUuaHRtbC5lcmIAAA4AHAANAGgAbwBt
-			AGUALgBoAHQAbQBsAC4AZQByAGIADwAeAA4ASgBhAHkAYQB2AGEA
-			cgBtAGEAbgAgAFYASQBJABIAQFVzZXJzL2FuZHJld3JvYmJpbnMv
-			c3JjL3NhbXBsZV9hcHAvYXBwL3ZpZXdzL3BhZ2VzL2hvbWUuaHRt
-			bC5lcmIAEwABLwAAFQACABT//wAA
+			AAAAAAHAAAIAAA5KYXlhdmFybWFuIFZJSQAAAAAAAAAAAAAAAADJ
+			hKxaSCsAAAAT2OEPcGFnZXNfaGVscGVyLnJiAAAAAAAAAAAAAAAA
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABP3
+			nMpjU3oAAAAAAAAAAP////8AAAkgAAAAAAAAAAAAAAAAAAAAB2hl
+			bHBlcnMAABAACAAAyYUc2gAAABEACAAAymO16gAAAAEAGAAT2OEA
+			E9jeABPY2AAPGaAACH9ZAACYPgACAE1KYXlhdmFybWFuIFZJSTpV
+			c2VyczphbmRyZXdyb2JiaW5zOnNyYzpzYW1wbGVfYXBwOmFwcDpo
+			ZWxwZXJzOnBhZ2VzX2hlbHBlci5yYgAADgAgAA8AcABhAGcAZQBz
+			AF8AaABlAGwAcABlAHIALgByAGIADwAeAA4ASgBhAHkAYQB2AGEA
+			cgBtAGEAbgAgAFYASQBJABIAPlVzZXJzL2FuZHJld3JvYmJpbnMv
+			c3JjL3NhbXBsZV9hcHAvYXBwL2hlbHBlcnMvcGFnZXNfaGVscGVy
+			LnJiABMAAS8AABUAAgAU//8AAA==
 			</data>
 			<key>FileURL</key>
-			<string>file://localhost/Users/andrewrobbins/src/sample_app/app/views/pages/home.html.erb</string>
+			<string>file://localhost/Users/andrewrobbins/src/sample_app/app/helpers/pages_helper.rb</string>
 			<key>RelativePath</key>
-			<string>./app/views/pages/home.html.erb</string>
+			<string>./app/helpers/pages_helper.rb</string>
 			<key>TypeID</key>
 			<string>_CFileLocator</string>
 			<key>Version</key>
@@ -180,23 +320,24 @@
 		<dict>
 			<key>AliasData</key>
 			<data>
-			AAAAAAHOAAIAAA5KYXlhdmFybWFuIFZJSQAAAAAAAAAAAAAAAADJ
-			hKxaSCsAAAAT7lwQY29udGFjdC5odG1sLmVyYgAAAAAAAAAAAAAA
-			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABPu
-			XspjP4hURVhUAAAAAP////8AAAkgAAAAAAAAAAAAAAAAAAAABXBh
-			Z2VzAAAQAAgAAMmFHNoAAAARAAgAAMpjofgAAAABABwAE+5cABPY
-			5QAT2N4AE9jYAA8ZoAAIf1kAAJg+AAIAUkpheWF2YXJtYW4gVklJ
-			OlVzZXJzOmFuZHJld3JvYmJpbnM6c3JjOnNhbXBsZV9hcHA6YXBw
-			OnZpZXdzOnBhZ2VzOmNvbnRhY3QuaHRtbC5lcmIADgAiABAAYwBv
-			AG4AdABhAGMAdAAuAGgAdABtAGwALgBlAHIAYgAPAB4ADgBKAGEA
-			eQBhAHYAYQByAG0AYQBuACAAVgBJAEkAEgBDVXNlcnMvYW5kcmV3
-			cm9iYmlucy9zcmMvc2FtcGxlX2FwcC9hcHAvdmlld3MvcGFnZXMv
-			Y29udGFjdC5odG1sLmVyYgAAEwABLwAAFQACABT//wAA
+			AAAAAAHYAAIAAA5KYXlhdmFybWFuIFZJSQAAAAAAAAAAAAAAAADJ
+			hKxaSCsAAAAUBFEUbGF5b3V0X2xpbmtzX3NwZWMucmIAAAAAAAAA
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABQE
+			UspllQJURVhUAAAAAP////8AAAkgAAAAAAAAAAAAAAAAAAAACHJl
+			cXVlc3RzABAACAAAyYUc2gAAABEACAAAymX3cgAAAAEAGAAUBFEA
+			E+mRABPY2AAPGaAACH9ZAACYPgACAFRKYXlhdmFybWFuIFZJSTpV
+			c2VyczphbmRyZXdyb2JiaW5zOnNyYzpzYW1wbGVfYXBwOnNwZWM6
+			cmVxdWVzdHM6bGF5b3V0X2xpbmtzX3NwZWMucmIADgAqABQAbABh
+			AHkAbwB1AHQAXwBsAGkAbgBrAHMAXwBzAHAAZQBjAC4AcgBiAA8A
+			HgAOAEoAYQB5AGEAdgBhAHIAbQBhAG4AIABWAEkASQASAEVVc2Vy
+			cy9hbmRyZXdyb2JiaW5zL3NyYy9zYW1wbGVfYXBwL3NwZWMvcmVx
+			dWVzdHMvbGF5b3V0X2xpbmtzX3NwZWMucmIAABMAAS8AABUAAgAU
+			//8AAA==
 			</data>
 			<key>FileURL</key>
-			<string>file://localhost/Users/andrewrobbins/src/sample_app/app/views/pages/contact.html.erb</string>
+			<string>file://localhost/Users/andrewrobbins/src/sample_app/spec/requests/layout_links_spec.rb</string>
 			<key>RelativePath</key>
-			<string>./app/views/pages/contact.html.erb</string>
+			<string>./spec/requests/layout_links_spec.rb</string>
 			<key>TypeID</key>
 			<string>_CFileLocator</string>
 			<key>Version</key>
@@ -205,23 +346,23 @@
 		<dict>
 			<key>AliasData</key>
 			<data>
-			AAAAAAHGAAIAAA5KYXlhdmFybWFuIFZJSQAAAAAAAAAAAAAAAADJ
-			hKxaSCsAAAAT7lwOYWJvdXQuaHRtbC5lcmIAAAAAAAAAAAAAAAAA
-			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABPz
-			SspjS9dURVhUAAAAAP////8AAAkgAAAAAAAAAAAAAAAAAAAABXBh
-			Z2VzAAAQAAgAAMmFHNoAAAARAAgAAMpjrkcAAAABABwAE+5cABPY
-			5QAT2N4AE9jYAA8ZoAAIf1kAAJg+AAIAUEpheWF2YXJtYW4gVklJ
-			OlVzZXJzOmFuZHJld3JvYmJpbnM6c3JjOnNhbXBsZV9hcHA6YXBw
-			OnZpZXdzOnBhZ2VzOmFib3V0Lmh0bWwuZXJiAA4AHgAOAGEAYgBv
-			AHUAdAAuAGgAdABtAGwALgBlAHIAYgAPAB4ADgBKAGEAeQBhAHYA
-			YQByAG0AYQBuACAAVgBJAEkAEgBBVXNlcnMvYW5kcmV3cm9iYmlu
-			cy9zcmMvc2FtcGxlX2FwcC9hcHAvdmlld3MvcGFnZXMvYWJvdXQu
-			aHRtbC5lcmIAABMAAS8AABUAAgAU//8AAA==
+			AAAAAAG+AAIAAA5KYXlhdmFybWFuIFZJSQAAAAAAAAAAAAAAAADJ
+			hKxaSCsAAAAT2Q8KY3VzdG9tLmNzcwAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABQD
+			Tcpljk1URVhUAAAAAP////8AAAkgAAAAAAAAAAAAAAAAAAAAC3N0
+			eWxlc2hlZXRzAAAQAAgAAMmFHNoAAAARAAgAAMpl8L0AAAABABgA
+			E9kPABPZBgAT2NgADxmgAAh/WQAAmD4AAgBPSmF5YXZhcm1hbiBW
+			SUk6VXNlcnM6YW5kcmV3cm9iYmluczpzcmM6c2FtcGxlX2FwcDpw
+			dWJsaWM6c3R5bGVzaGVldHM6Y3VzdG9tLmNzcwAADgAWAAoAYwB1
+			AHMAdABvAG0ALgBjAHMAcwAPAB4ADgBKAGEAeQBhAHYAYQByAG0A
+			YQBuACAAVgBJAEkAEgBAVXNlcnMvYW5kcmV3cm9iYmlucy9zcmMv
+			c2FtcGxlX2FwcC9wdWJsaWMvc3R5bGVzaGVldHMvY3VzdG9tLmNz
+			cwATAAEvAAAVAAIAFP//AAA=
 			</data>
 			<key>FileURL</key>
-			<string>file://localhost/Users/andrewrobbins/src/sample_app/app/views/pages/about.html.erb</string>
+			<string>file://localhost/Users/andrewrobbins/src/sample_app/public/stylesheets/custom.css</string>
 			<key>RelativePath</key>
-			<string>./app/views/pages/about.html.erb</string>
+			<string>./public/stylesheets/custom.css</string>
 			<key>TypeID</key>
 			<string>_CFileLocator</string>
 			<key>Version</key>
@@ -232,9 +373,9 @@
 			<data>
 			AAAAAAHkAAIAAA5KYXlhdmFybWFuIFZJSQAAAAAAAAAAAAAAAADJ
 			hKxaSCsAAAAT2OYUYXBwbGljYXRpb24uaHRtbC5lcmIAAAAAAAAA
-			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABP2
-			tspjUcdURVhUAAAAAP////8AAAkgAAAAAAAAAAAAAAAAAAAAB2xh
-			eW91dHMAABAACAAAyYUc2gAAABEACAAAymO0NwAAAAEAHAAT2OYA
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABP3
+			ncpjU3pURVhUAAAAAP////8AAAkgAAAAAAAAAAAAAAAAAAAAB2xh
+			eW91dHMAABAACAAAyYUc2gAAABEACAAAymO16gAAAAEAHAAT2OYA
 			E9jlABPY3gAT2NgADxmgAAh/WQAAmD4AAgBYSmF5YXZhcm1hbiBW
 			SUk6VXNlcnM6YW5kcmV3cm9iYmluczpzcmM6c2FtcGxlX2FwcDph
 			cHA6dmlld3M6bGF5b3V0czphcHBsaWNhdGlvbi5odG1sLmVyYgAO
@@ -256,24 +397,124 @@
 		<dict>
 			<key>AliasData</key>
 			<data>
-			AAAAAAHyAAIAAA5KYXlhdmFybWFuIFZJSQAAAAAAAAAAAAAAAADJ
-			hKxaSCsAAAAT7l8YcGFnZXNfY29udHJvbGxlcl9zcGVjLnJiAAAA
-			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABPu
-			YMpjP4hURVhUAAAAAP////8AAAkgAAAAAAAAAAAAAAAAAAAAC2Nv
-			bnRyb2xsZXJzAAAQAAgAAMmFHNoAAAARAAgAAMpjofgAAAABABgA
-			E+5fABPpkQAT2NgADxmgAAh/WQAAmD4AAgBbSmF5YXZhcm1hbiBW
-			SUk6VXNlcnM6YW5kcmV3cm9iYmluczpzcmM6c2FtcGxlX2FwcDpz
-			cGVjOmNvbnRyb2xsZXJzOnBhZ2VzX2NvbnRyb2xsZXJfc3BlYy5y
-			YgAADgAyABgAcABhAGcAZQBzAF8AYwBvAG4AdAByAG8AbABsAGUA
-			cgBfAHMAcABlAGMALgByAGIADwAeAA4ASgBhAHkAYQB2AGEAcgBt
-			AGEAbgAgAFYASQBJABIATFVzZXJzL2FuZHJld3JvYmJpbnMvc3Jj
-			L3NhbXBsZV9hcHAvc3BlYy9jb250cm9sbGVycy9wYWdlc19jb250
-			cm9sbGVyX3NwZWMucmIAEwABLwAAFQACABT//wAA
+			AAAAAAHUAAIAAA5KYXlhdmFybWFuIFZJSQAAAAAAAAAAAAAAAADJ
+			hKxaSCsAAAAT2OYQX2Zvb3Rlci5odG1sLmVyYgAAAAAAAAAAAAAA
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABQE
+			G8plk+xURVhUAAAAAP////8AAAkgAAAAAAAAAAAAAAAAAAAAB2xh
+			eW91dHMAABAACAAAyYUc2gAAABEACAAAymX2XAAAAAEAHAAT2OYA
+			E9jlABPY3gAT2NgADxmgAAh/WQAAmD4AAgBUSmF5YXZhcm1hbiBW
+			SUk6VXNlcnM6YW5kcmV3cm9iYmluczpzcmM6c2FtcGxlX2FwcDph
+			cHA6dmlld3M6bGF5b3V0czpfZm9vdGVyLmh0bWwuZXJiAA4AIgAQ
+			AF8AZgBvAG8AdABlAHIALgBoAHQAbQBsAC4AZQByAGIADwAeAA4A
+			SgBhAHkAYQB2AGEAcgBtAGEAbgAgAFYASQBJABIARVVzZXJzL2Fu
+			ZHJld3JvYmJpbnMvc3JjL3NhbXBsZV9hcHAvYXBwL3ZpZXdzL2xh
+			eW91dHMvX2Zvb3Rlci5odG1sLmVyYgAAEwABLwAAFQACABT//wAA
 			</data>
 			<key>FileURL</key>
-			<string>file://localhost/Users/andrewrobbins/src/sample_app/spec/controllers/pages_controller_spec.rb</string>
+			<string>file://localhost/Users/andrewrobbins/src/sample_app/app/views/layouts/_footer.html.erb</string>
 			<key>RelativePath</key>
-			<string>./spec/controllers/pages_controller_spec.rb</string>
+			<string>./app/views/layouts/_footer.html.erb</string>
+			<key>TypeID</key>
+			<string>_CFileLocator</string>
+			<key>Version</key>
+			<integer>1</integer>
+		</dict>
+		<dict>
+			<key>AliasData</key>
+			<data>
+			AAAAAAHUAAIAAA5KYXlhdmFybWFuIFZJSQAAAAAAAAAAAAAAAADJ
+			hKxaSCsAAAAT2OYQX2hlYWRlci5odG1sLmVyYgAAAAAAAAAAAAAA
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABQE
+			Csplk7JURVhUAAAAAP////8AAAkgAAAAAAAAAAAAAAAAAAAAB2xh
+			eW91dHMAABAACAAAyYUc2gAAABEACAAAymX2IgAAAAEAHAAT2OYA
+			E9jlABPY3gAT2NgADxmgAAh/WQAAmD4AAgBUSmF5YXZhcm1hbiBW
+			SUk6VXNlcnM6YW5kcmV3cm9iYmluczpzcmM6c2FtcGxlX2FwcDph
+			cHA6dmlld3M6bGF5b3V0czpfaGVhZGVyLmh0bWwuZXJiAA4AIgAQ
+			AF8AaABlAGEAZABlAHIALgBoAHQAbQBsAC4AZQByAGIADwAeAA4A
+			SgBhAHkAYQB2AGEAcgBtAGEAbgAgAFYASQBJABIARVVzZXJzL2Fu
+			ZHJld3JvYmJpbnMvc3JjL3NhbXBsZV9hcHAvYXBwL3ZpZXdzL2xh
+			eW91dHMvX2hlYWRlci5odG1sLmVyYgAAEwABLwAAFQACABT//wAA
+			</data>
+			<key>FileURL</key>
+			<string>file://localhost/Users/andrewrobbins/src/sample_app/app/views/layouts/_header.html.erb</string>
+			<key>RelativePath</key>
+			<string>./app/views/layouts/_header.html.erb</string>
+			<key>TypeID</key>
+			<string>_CFileLocator</string>
+			<key>Version</key>
+			<integer>1</integer>
+		</dict>
+		<dict>
+			<key>AliasData</key>
+			<data>
+			AAAAAAHoAAIAAA5KYXlhdmFybWFuIFZJSQAAAAAAAAAAAAAAAADJ
+			hKxaSCsAAAAT2OYVX3N0eWxlc2hlZXRzLmh0bWwuZXJiAAAAAAAA
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABQE
+			A8plk5dURVhUAAAAAP////8AAAkgAAAAAAAAAAAAAAAAAAAAB2xh
+			eW91dHMAABAACAAAyYUc2gAAABEACAAAymX2BwAAAAEAHAAT2OYA
+			E9jlABPY3gAT2NgADxmgAAh/WQAAmD4AAgBZSmF5YXZhcm1hbiBW
+			SUk6VXNlcnM6YW5kcmV3cm9iYmluczpzcmM6c2FtcGxlX2FwcDph
+			cHA6dmlld3M6bGF5b3V0czpfc3R5bGVzaGVldHMuaHRtbC5lcmIA
+			AA4ALAAVAF8AcwB0AHkAbABlAHMAaABlAGUAdABzAC4AaAB0AG0A
+			bAAuAGUAcgBiAA8AHgAOAEoAYQB5AGEAdgBhAHIAbQBhAG4AIABW
+			AEkASQASAEpVc2Vycy9hbmRyZXdyb2JiaW5zL3NyYy9zYW1wbGVf
+			YXBwL2FwcC92aWV3cy9sYXlvdXRzL19zdHlsZXNoZWV0cy5odG1s
+			LmVyYgATAAEvAAAVAAIAFP//AAA=
+			</data>
+			<key>FileURL</key>
+			<string>file://localhost/Users/andrewrobbins/src/sample_app/app/views/layouts/_stylesheets.html.erb</string>
+			<key>RelativePath</key>
+			<string>./app/views/layouts/_stylesheets.html.erb</string>
+			<key>TypeID</key>
+			<string>_CFileLocator</string>
+			<key>Version</key>
+			<integer>1</integer>
+		</dict>
+		<dict>
+			<key>AliasData</key>
+			<data>
+			AAAAAAGSAAIAAA5KYXlhdmFybWFuIFZJSQAAAAAAAAAAAAAAAADJ
+			hKxaSCsAAAAOS9IRX3N0eWxlc2hlZXRzLmh0bWwAAAAAAAAAAAAA
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABQD
+			98plk1JURVhUAAAAAP////8AAAkgAAAAAAAAAAAAAAAAAAAABi5U
+			cmFzaAAQAAgAAMmFHNoAAAARAAgAAMpl9cIAAAABAAwADkvSAAh/
+			WQAAmD4AAgA7SmF5YXZhcm1hbiBWSUk6VXNlcnM6YW5kcmV3cm9i
+			YmluczouVHJhc2g6X3N0eWxlc2hlZXRzLmh0bWwAAA4AJAARAF8A
+			cwB0AHkAbABlAHMAaABlAGUAdABzAC4AaAB0AG0AbAAPAB4ADgBK
+			AGEAeQBhAHYAYQByAG0AYQBuACAAVgBJAEkAEgAsVXNlcnMvYW5k
+			cmV3cm9iYmlucy8uVHJhc2gvX3N0eWxlc2hlZXRzLmh0bWwAEwAB
+			LwAAFQACABT//wAA
+			</data>
+			<key>FileURL</key>
+			<string>file://localhost/Users/andrewrobbins/.Trash/_stylesheets.html</string>
+			<key>RelativePath</key>
+			<string>../../.Trash/_stylesheets.html</string>
+			<key>TypeID</key>
+			<string>_CFileLocator</string>
+			<key>Version</key>
+			<integer>1</integer>
+		</dict>
+		<dict>
+			<key>AliasData</key>
+			<data>
+			AAAAAAHYAAIAAA5KYXlhdmFybWFuIFZJSQAAAAAAAAAAAAAAAADJ
+			hKxaSCsAAAAT2OEVYXBwbGljYXRpb25faGVscGVyLnJiAAAAAAAA
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABPY
+			4spjCsdURVhUAAAAAP////8AAAkgAAAAAAAAAAAAAAAAAAAAB2hl
+			bHBlcnMAABAACAAAyYUc2gAAABEACAAAymNtNwAAAAEAGAAT2OEA
+			E9jeABPY2AAPGaAACH9ZAACYPgACAFNKYXlhdmFybWFuIFZJSTpV
+			c2VyczphbmRyZXdyb2JiaW5zOnNyYzpzYW1wbGVfYXBwOmFwcDpo
+			ZWxwZXJzOmFwcGxpY2F0aW9uX2hlbHBlci5yYgAADgAsABUAYQBw
+			AHAAbABpAGMAYQB0AGkAbwBuAF8AaABlAGwAcABlAHIALgByAGIA
+			DwAeAA4ASgBhAHkAYQB2AGEAcgBtAGEAbgAgAFYASQBJABIARFVz
+			ZXJzL2FuZHJld3JvYmJpbnMvc3JjL3NhbXBsZV9hcHAvYXBwL2hl
+			bHBlcnMvYXBwbGljYXRpb25faGVscGVyLnJiABMAAS8AABUAAgAU
+			//8AAA==
+			</data>
+			<key>FileURL</key>
+			<string>file://localhost/Users/andrewrobbins/src/sample_app/app/helpers/application_helper.rb</string>
+			<key>RelativePath</key>
+			<string>./app/helpers/application_helper.rb</string>
 			<key>TypeID</key>
 			<string>_CFileLocator</string>
 			<key>Version</key>
@@ -308,30 +549,6 @@
 		<dict>
 			<key>AliasData</key>
 			<data>
-			AAAAAAGYAAIAAA5KYXlhdmFybWFuIFZJSQAAAAAAAAAAAAAAAADJ
-			hKxaSCsAAAAT2OgJcm91dGVzLnJiAAAAAAAAAAAAAAAAAAAAAAAA
-			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABPY
-			6cpjCsdURVhUAAAAAP////8AAAkgAAAAAAAAAAAAAAAAAAAABmNv
-			bmZpZwAQAAgAAMmFHNoAAAARAAgAAMpjbTcAAAABABQAE9joABPY
-			2AAPGaAACH9ZAACYPgACAEJKYXlhdmFybWFuIFZJSTpVc2Vyczph
-			bmRyZXdyb2JiaW5zOnNyYzpzYW1wbGVfYXBwOmNvbmZpZzpyb3V0
-			ZXMucmIADgAUAAkAcgBvAHUAdABlAHMALgByAGIADwAeAA4ASgBh
-			AHkAYQB2AGEAcgBtAGEAbgAgAFYASQBJABIAM1VzZXJzL2FuZHJl
-			d3JvYmJpbnMvc3JjL3NhbXBsZV9hcHAvY29uZmlnL3JvdXRlcy5y
-			YgAAEwABLwAAFQACABT//wAA
-			</data>
-			<key>FileURL</key>
-			<string>file://localhost/Users/andrewrobbins/src/sample_app/config/routes.rb</string>
-			<key>RelativePath</key>
-			<string>./config/routes.rb</string>
-			<key>TypeID</key>
-			<string>_CFileLocator</string>
-			<key>Version</key>
-			<integer>1</integer>
-		</dict>
-		<dict>
-			<key>AliasData</key>
-			<data>
 			AAAAAAGCAAIAAA5KYXlhdmFybWFuIFZJSQAAAAAAAAAAAAAAAADJ
 			hKxaSCsAAAAT2NgHR2VtZmlsZQAAAAAAAAAAAAAAAAAAAAAAAAAA
 			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABPY
@@ -352,6 +569,82 @@
 			<key>Version</key>
 			<integer>1</integer>
 		</dict>
+		<dict>
+			<key>AliasData</key>
+			<data>
+			AAAAAAHOAAIAAA5KYXlhdmFybWFuIFZJSQAAAAAAAAAAAAAAAADJ
+			hKxaSCsAAAAT954QY29udGFjdC5odG1sLmVyYgAAAAAAAAAAAAAA
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABP3
+			oMpjU3oAAAAAAAAAAP////8AAAkgAAAAAAAAAAAAAAAAAAAABXBh
+			Z2VzAAAQAAgAAMmFHNoAAAARAAgAAMpjteoAAAABABwAE/eeABPY
+			5QAT2N4AE9jYAA8ZoAAIf1kAAJg+AAIAUkpheWF2YXJtYW4gVklJ
+			OlVzZXJzOmFuZHJld3JvYmJpbnM6c3JjOnNhbXBsZV9hcHA6YXBw
+			OnZpZXdzOnBhZ2VzOmNvbnRhY3QuaHRtbC5lcmIADgAiABAAYwBv
+			AG4AdABhAGMAdAAuAGgAdABtAGwALgBlAHIAYgAPAB4ADgBKAGEA
+			eQBhAHYAYQByAG0AYQBuACAAVgBJAEkAEgBDVXNlcnMvYW5kcmV3
+			cm9iYmlucy9zcmMvc2FtcGxlX2FwcC9hcHAvdmlld3MvcGFnZXMv
+			Y29udGFjdC5odG1sLmVyYgAAEwABLwAAFQACABT//wAA
+			</data>
+			<key>FileURL</key>
+			<string>file://localhost/Users/andrewrobbins/src/sample_app/app/views/pages/contact.html.erb</string>
+			<key>RelativePath</key>
+			<string>./app/views/pages/contact.html.erb</string>
+			<key>TypeID</key>
+			<string>_CFileLocator</string>
+			<key>Version</key>
+			<integer>1</integer>
+		</dict>
+		<dict>
+			<key>AliasData</key>
+			<data>
+			AAAAAAHGAAIAAA5KYXlhdmFybWFuIFZJSQAAAAAAAAAAAAAAAADJ
+			hKxaSCsAAAAT954OYWJvdXQuaHRtbC5lcmIAAAAAAAAAAAAAAAAA
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABP3
+			n8pjU3oAAAAAAAAAAP////8AAAkgAAAAAAAAAAAAAAAAAAAABXBh
+			Z2VzAAAQAAgAAMmFHNoAAAARAAgAAMpjteoAAAABABwAE/eeABPY
+			5QAT2N4AE9jYAA8ZoAAIf1kAAJg+AAIAUEpheWF2YXJtYW4gVklJ
+			OlVzZXJzOmFuZHJld3JvYmJpbnM6c3JjOnNhbXBsZV9hcHA6YXBw
+			OnZpZXdzOnBhZ2VzOmFib3V0Lmh0bWwuZXJiAA4AHgAOAGEAYgBv
+			AHUAdAAuAGgAdABtAGwALgBlAHIAYgAPAB4ADgBKAGEAeQBhAHYA
+			YQByAG0AYQBuACAAVgBJAEkAEgBBVXNlcnMvYW5kcmV3cm9iYmlu
+			cy9zcmMvc2FtcGxlX2FwcC9hcHAvdmlld3MvcGFnZXMvYWJvdXQu
+			aHRtbC5lcmIAABMAAS8AABUAAgAU//8AAA==
+			</data>
+			<key>FileURL</key>
+			<string>file://localhost/Users/andrewrobbins/src/sample_app/app/views/pages/about.html.erb</string>
+			<key>RelativePath</key>
+			<string>./app/views/pages/about.html.erb</string>
+			<key>TypeID</key>
+			<string>_CFileLocator</string>
+			<key>Version</key>
+			<integer>1</integer>
+		</dict>
+		<dict>
+			<key>AliasData</key>
+			<data>
+			AAAAAAHyAAIAAA5KYXlhdmFybWFuIFZJSQAAAAAAAAAAAAAAAADJ
+			hKxaSCsAAAAT97YYcGFnZXNfY29udHJvbGxlcl9zcGVjLnJiAAAA
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABP3
+			t8pjU3oAAAAAAAAAAP////8AAAkgAAAAAAAAAAAAAAAAAAAAC2Nv
+			bnRyb2xsZXJzAAAQAAgAAMmFHNoAAAARAAgAAMpjteoAAAABABgA
+			E/e2ABPpkQAT2NgADxmgAAh/WQAAmD4AAgBbSmF5YXZhcm1hbiBW
+			SUk6VXNlcnM6YW5kcmV3cm9iYmluczpzcmM6c2FtcGxlX2FwcDpz
+			cGVjOmNvbnRyb2xsZXJzOnBhZ2VzX2NvbnRyb2xsZXJfc3BlYy5y
+			YgAADgAyABgAcABhAGcAZQBzAF8AYwBvAG4AdAByAG8AbABsAGUA
+			cgBfAHMAcABlAGMALgByAGIADwAeAA4ASgBhAHkAYQB2AGEAcgBt
+			AGEAbgAgAFYASQBJABIATFVzZXJzL2FuZHJld3JvYmJpbnMvc3Jj
+			L3NhbXBsZV9hcHAvc3BlYy9jb250cm9sbGVycy9wYWdlc19jb250
+			cm9sbGVyX3NwZWMucmIAEwABLwAAFQACABT//wAA
+			</data>
+			<key>FileURL</key>
+			<string>file://localhost/Users/andrewrobbins/src/sample_app/spec/controllers/pages_controller_spec.rb</string>
+			<key>RelativePath</key>
+			<string>./spec/controllers/pages_controller_spec.rb</string>
+			<key>TypeID</key>
+			<string>_CFileLocator</string>
+			<key>Version</key>
+			<integer>1</integer>
+		</dict>
 	</array>
 	<key>OpenDocumentsExpanded</key>
 	<true/>
@@ -363,7 +656,402 @@
 	<array>
 		<dict>
 			<key>Date</key>
-			<date>2011-08-07T03:17:11Z</date>
+			<date>2011-08-08T20:33:30Z</date>
+			<key>Location</key>
+			<dict>
+				<key>AliasData</key>
+				<data>
+				AAAAAAHCAAIAAA5KYXlhdmFybWFuIFZJSQAAAAAAAAAA
+				AAAAAADJhKxaSCsAAAAT954NaGVscC5odG1sLmVyYgAA
+				AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+				AAAAAAAAAAAAAAAAAAAAABQEgspllipURVhUAAAAAP//
+				//8AAAkgAAAAAAAAAAAAAAAAAAAABXBhZ2VzAAAQAAgA
+				AMmFHNoAAAARAAgAAMpl+JoAAAABABwAE/eeABPY5QAT
+				2N4AE9jYAA8ZoAAIf1kAAJg+AAIAT0pheWF2YXJtYW4g
+				VklJOlVzZXJzOmFuZHJld3JvYmJpbnM6c3JjOnNhbXBs
+				ZV9hcHA6YXBwOnZpZXdzOnBhZ2VzOmhlbHAuaHRtbC5l
+				cmIAAA4AHAANAGgAZQBsAHAALgBoAHQAbQBsAC4AZQBy
+				AGIADwAeAA4ASgBhAHkAYQB2AGEAcgBtAGEAbgAgAFYA
+				SQBJABIAQFVzZXJzL2FuZHJld3JvYmJpbnMvc3JjL3Nh
+				bXBsZV9hcHAvYXBwL3ZpZXdzL3BhZ2VzL2hlbHAuaHRt
+				bC5lcmIAEwABLwAAFQACABT//wAA
+				</data>
+				<key>FileURL</key>
+				<string>file://localhost/Users/andrewrobbins/src/sample_app/app/views/pages/help.html.erb</string>
+				<key>TypeID</key>
+				<string>_CFileLocator</string>
+				<key>Version</key>
+				<integer>1</integer>
+			</dict>
+		</dict>
+		<dict>
+			<key>Date</key>
+			<date>2011-08-08T20:31:38Z</date>
+			<key>Location</key>
+			<dict>
+				<key>AliasData</key>
+				<data>
+				AAAAAAHAAAIAAA5KYXlhdmFybWFuIFZJSQAAAAAAAAAA
+				AAAAAADJhKxaSCsAAAAT2OEPcGFnZXNfaGVscGVyLnJi
+				AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+				AAAAAAAAAAAAAAAAAAAAABP3nMpjU3oAAAAAAAAAAP//
+				//8AAAkgAAAAAAAAAAAAAAAAAAAAB2hlbHBlcnMAABAA
+				CAAAyYUc2gAAABEACAAAymO16gAAAAEAGAAT2OEAE9je
+				ABPY2AAPGaAACH9ZAACYPgACAE1KYXlhdmFybWFuIFZJ
+				STpVc2VyczphbmRyZXdyb2JiaW5zOnNyYzpzYW1wbGVf
+				YXBwOmFwcDpoZWxwZXJzOnBhZ2VzX2hlbHBlci5yYgAA
+				DgAgAA8AcABhAGcAZQBzAF8AaABlAGwAcABlAHIALgBy
+				AGIADwAeAA4ASgBhAHkAYQB2AGEAcgBtAGEAbgAgAFYA
+				SQBJABIAPlVzZXJzL2FuZHJld3JvYmJpbnMvc3JjL3Nh
+				bXBsZV9hcHAvYXBwL2hlbHBlcnMvcGFnZXNfaGVscGVy
+				LnJiABMAAS8AABUAAgAU//8AAA==
+				</data>
+				<key>FileURL</key>
+				<string>file://localhost/Users/andrewrobbins/src/sample_app/app/helpers/pages_helper.rb</string>
+				<key>TypeID</key>
+				<string>_CFileLocator</string>
+				<key>Version</key>
+				<integer>1</integer>
+			</dict>
+		</dict>
+		<dict>
+			<key>Date</key>
+			<date>2011-08-08T20:28:53Z</date>
+			<key>Location</key>
+			<dict>
+				<key>AliasData</key>
+				<data>
+				AAAAAAHYAAIAAA5KYXlhdmFybWFuIFZJSQAAAAAAAAAA
+				AAAAAADJhKxaSCsAAAAUBFEUbGF5b3V0X2xpbmtzX3Nw
+				ZWMucmIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+				AAAAAAAAAAAAAAAAAAAAABQEUspllQJURVhUAAAAAP//
+				//8AAAkgAAAAAAAAAAAAAAAAAAAACHJlcXVlc3RzABAA
+				CAAAyYUc2gAAABEACAAAymX3cgAAAAEAGAAUBFEAE+mR
+				ABPY2AAPGaAACH9ZAACYPgACAFRKYXlhdmFybWFuIFZJ
+				STpVc2VyczphbmRyZXdyb2JiaW5zOnNyYzpzYW1wbGVf
+				YXBwOnNwZWM6cmVxdWVzdHM6bGF5b3V0X2xpbmtzX3Nw
+				ZWMucmIADgAqABQAbABhAHkAbwB1AHQAXwBsAGkAbgBr
+				AHMAXwBzAHAAZQBjAC4AcgBiAA8AHgAOAEoAYQB5AGEA
+				dgBhAHIAbQBhAG4AIABWAEkASQASAEVVc2Vycy9hbmRy
+				ZXdyb2JiaW5zL3NyYy9zYW1wbGVfYXBwL3NwZWMvcmVx
+				dWVzdHMvbGF5b3V0X2xpbmtzX3NwZWMucmIAABMAAS8A
+				ABUAAgAU//8AAA==
+				</data>
+				<key>FileURL</key>
+				<string>file://localhost/Users/andrewrobbins/src/sample_app/spec/requests/layout_links_spec.rb</string>
+				<key>TypeID</key>
+				<string>_CFileLocator</string>
+				<key>Version</key>
+				<integer>1</integer>
+			</dict>
+		</dict>
+		<dict>
+			<key>Date</key>
+			<date>2011-08-08T20:23:56Z</date>
+			<key>Location</key>
+			<dict>
+				<key>AliasData</key>
+				<data>
+				AAAAAAHUAAIAAA5KYXlhdmFybWFuIFZJSQAAAAAAAAAA
+				AAAAAADJhKxaSCsAAAAT2OYQX2Zvb3Rlci5odG1sLmVy
+				YgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+				AAAAAAAAAAAAAAAAAAAAABQEG8plk+xURVhUAAAAAP//
+				//8AAAkgAAAAAAAAAAAAAAAAAAAAB2xheW91dHMAABAA
+				CAAAyYUc2gAAABEACAAAymX2XAAAAAEAHAAT2OYAE9jl
+				ABPY3gAT2NgADxmgAAh/WQAAmD4AAgBUSmF5YXZhcm1h
+				biBWSUk6VXNlcnM6YW5kcmV3cm9iYmluczpzcmM6c2Ft
+				cGxlX2FwcDphcHA6dmlld3M6bGF5b3V0czpfZm9vdGVy
+				Lmh0bWwuZXJiAA4AIgAQAF8AZgBvAG8AdABlAHIALgBo
+				AHQAbQBsAC4AZQByAGIADwAeAA4ASgBhAHkAYQB2AGEA
+				cgBtAGEAbgAgAFYASQBJABIARVVzZXJzL2FuZHJld3Jv
+				YmJpbnMvc3JjL3NhbXBsZV9hcHAvYXBwL3ZpZXdzL2xh
+				eW91dHMvX2Zvb3Rlci5odG1sLmVyYgAAEwABLwAAFQAC
+				ABT//wAA
+				</data>
+				<key>FileURL</key>
+				<string>file://localhost/Users/andrewrobbins/src/sample_app/app/views/layouts/_footer.html.erb</string>
+				<key>TypeID</key>
+				<string>_CFileLocator</string>
+				<key>Version</key>
+				<integer>1</integer>
+			</dict>
+		</dict>
+		<dict>
+			<key>Date</key>
+			<date>2011-08-08T20:22:58Z</date>
+			<key>Location</key>
+			<dict>
+				<key>AliasData</key>
+				<data>
+				AAAAAAHUAAIAAA5KYXlhdmFybWFuIFZJSQAAAAAAAAAA
+				AAAAAADJhKxaSCsAAAAT2OYQX2hlYWRlci5odG1sLmVy
+				YgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+				AAAAAAAAAAAAAAAAAAAAABQECsplk7JURVhUAAAAAP//
+				//8AAAkgAAAAAAAAAAAAAAAAAAAAB2xheW91dHMAABAA
+				CAAAyYUc2gAAABEACAAAymX2IgAAAAEAHAAT2OYAE9jl
+				ABPY3gAT2NgADxmgAAh/WQAAmD4AAgBUSmF5YXZhcm1h
+				biBWSUk6VXNlcnM6YW5kcmV3cm9iYmluczpzcmM6c2Ft
+				cGxlX2FwcDphcHA6dmlld3M6bGF5b3V0czpfaGVhZGVy
+				Lmh0bWwuZXJiAA4AIgAQAF8AaABlAGEAZABlAHIALgBo
+				AHQAbQBsAC4AZQByAGIADwAeAA4ASgBhAHkAYQB2AGEA
+				cgBtAGEAbgAgAFYASQBJABIARVVzZXJzL2FuZHJld3Jv
+				YmJpbnMvc3JjL3NhbXBsZV9hcHAvYXBwL3ZpZXdzL2xh
+				eW91dHMvX2hlYWRlci5odG1sLmVyYgAAEwABLwAAFQAC
+				ABT//wAA
+				</data>
+				<key>FileURL</key>
+				<string>file://localhost/Users/andrewrobbins/src/sample_app/app/views/layouts/_header.html.erb</string>
+				<key>TypeID</key>
+				<string>_CFileLocator</string>
+				<key>Version</key>
+				<integer>1</integer>
+			</dict>
+		</dict>
+		<dict>
+			<key>Date</key>
+			<date>2011-08-08T20:22:43Z</date>
+			<key>Location</key>
+			<dict>
+				<key>AliasData</key>
+				<data>
+				AAAAAAGSAAIAAA5KYXlhdmFybWFuIFZJSQAAAAAAAAAA
+				AAAAAADJhKxaSCsAAAAOS9IRX3N0eWxlc2hlZXRzLmh0
+				bWwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+				AAAAAAAAAAAAAAAAAAAAABQD98plk1JURVhUAAAAAP//
+				//8AAAkgAAAAAAAAAAAAAAAAAAAABi5UcmFzaAAQAAgA
+				AMmFHNoAAAARAAgAAMpl9cIAAAABAAwADkvSAAh/WQAA
+				mD4AAgA7SmF5YXZhcm1hbiBWSUk6VXNlcnM6YW5kcmV3
+				cm9iYmluczouVHJhc2g6X3N0eWxlc2hlZXRzLmh0bWwA
+				AA4AJAARAF8AcwB0AHkAbABlAHMAaABlAGUAdABzAC4A
+				aAB0AG0AbAAPAB4ADgBKAGEAeQBhAHYAYQByAG0AYQBu
+				ACAAVgBJAEkAEgAsVXNlcnMvYW5kcmV3cm9iYmlucy8u
+				VHJhc2gvX3N0eWxlc2hlZXRzLmh0bWwAEwABLwAAFQAC
+				ABT//wAA
+				</data>
+				<key>FileURL</key>
+				<string>file://localhost/Users/andrewrobbins/.Trash/_stylesheets.html</string>
+				<key>TypeID</key>
+				<string>_CFileLocator</string>
+				<key>Version</key>
+				<integer>1</integer>
+			</dict>
+		</dict>
+		<dict>
+			<key>Date</key>
+			<date>2011-08-08T20:21:22Z</date>
+			<key>Location</key>
+			<dict>
+				<key>AliasData</key>
+				<data>
+				AAAAAAHoAAIAAA5KYXlhdmFybWFuIFZJSQAAAAAAAAAA
+				AAAAAADJhKxaSCsAAAAT2OYVX3N0eWxlc2hlZXRzLmh0
+				bWwuZXJiAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+				AAAAAAAAAAAAAAAAAAAAABQEA8plk5dURVhUAAAAAP//
+				//8AAAkgAAAAAAAAAAAAAAAAAAAAB2xheW91dHMAABAA
+				CAAAyYUc2gAAABEACAAAymX2BwAAAAEAHAAT2OYAE9jl
+				ABPY3gAT2NgADxmgAAh/WQAAmD4AAgBZSmF5YXZhcm1h
+				biBWSUk6VXNlcnM6YW5kcmV3cm9iYmluczpzcmM6c2Ft
+				cGxlX2FwcDphcHA6dmlld3M6bGF5b3V0czpfc3R5bGVz
+				aGVldHMuaHRtbC5lcmIAAA4ALAAVAF8AcwB0AHkAbABl
+				AHMAaABlAGUAdABzAC4AaAB0AG0AbAAuAGUAcgBiAA8A
+				HgAOAEoAYQB5AGEAdgBhAHIAbQBhAG4AIABWAEkASQAS
+				AEpVc2Vycy9hbmRyZXdyb2JiaW5zL3NyYy9zYW1wbGVf
+				YXBwL2FwcC92aWV3cy9sYXlvdXRzL19zdHlsZXNoZWV0
+				cy5odG1sLmVyYgATAAEvAAAVAAIAFP//AAA=
+				</data>
+				<key>FileURL</key>
+				<string>file://localhost/Users/andrewrobbins/src/sample_app/app/views/layouts/_stylesheets.html.erb</string>
+				<key>TypeID</key>
+				<string>_CFileLocator</string>
+				<key>Version</key>
+				<integer>1</integer>
+			</dict>
+		</dict>
+		<dict>
+			<key>Date</key>
+			<date>2011-08-08T19:59:57Z</date>
+			<key>Location</key>
+			<dict>
+				<key>AliasData</key>
+				<data>
+				AAAAAAG+AAIAAA5KYXlhdmFybWFuIFZJSQAAAAAAAAAA
+				AAAAAADJhKxaSCsAAAAT2Q8KY3VzdG9tLmNzcwAAAAAA
+				AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+				AAAAAAAAAAAAAAAAAAAAABQDTcpljk1URVhUAAAAAP//
+				//8AAAkgAAAAAAAAAAAAAAAAAAAAC3N0eWxlc2hlZXRz
+				AAAQAAgAAMmFHNoAAAARAAgAAMpl8L0AAAABABgAE9kP
+				ABPZBgAT2NgADxmgAAh/WQAAmD4AAgBPSmF5YXZhcm1h
+				biBWSUk6VXNlcnM6YW5kcmV3cm9iYmluczpzcmM6c2Ft
+				cGxlX2FwcDpwdWJsaWM6c3R5bGVzaGVldHM6Y3VzdG9t
+				LmNzcwAADgAWAAoAYwB1AHMAdABvAG0ALgBjAHMAcwAP
+				AB4ADgBKAGEAeQBhAHYAYQByAG0AYQBuACAAVgBJAEkA
+				EgBAVXNlcnMvYW5kcmV3cm9iYmlucy9zcmMvc2FtcGxl
+				X2FwcC9wdWJsaWMvc3R5bGVzaGVldHMvY3VzdG9tLmNz
+				cwATAAEvAAAVAAIAFP//AAA=
+				</data>
+				<key>FileURL</key>
+				<string>file://localhost/Users/andrewrobbins/src/sample_app/public/stylesheets/custom.css</string>
+				<key>TypeID</key>
+				<string>_CFileLocator</string>
+				<key>Version</key>
+				<integer>1</integer>
+			</dict>
+		</dict>
+		<dict>
+			<key>Date</key>
+			<date>2011-08-08T18:04:25Z</date>
+			<key>Location</key>
+			<dict>
+				<key>AliasData</key>
+				<data>
+				AAAAAAHYAAIAAA5KYXlhdmFybWFuIFZJSQAAAAAAAAAA
+				AAAAAADJhKxaSCsAAAAT2OEVYXBwbGljYXRpb25faGVs
+				cGVyLnJiAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+				AAAAAAAAAAAAAAAAAAAAABPY4spjCsdURVhUAAAAAP//
+				//8AAAkgAAAAAAAAAAAAAAAAAAAAB2hlbHBlcnMAABAA
+				CAAAyYUc2gAAABEACAAAymNtNwAAAAEAGAAT2OEAE9je
+				ABPY2AAPGaAACH9ZAACYPgACAFNKYXlhdmFybWFuIFZJ
+				STpVc2VyczphbmRyZXdyb2JiaW5zOnNyYzpzYW1wbGVf
+				YXBwOmFwcDpoZWxwZXJzOmFwcGxpY2F0aW9uX2hlbHBl
+				ci5yYgAADgAsABUAYQBwAHAAbABpAGMAYQB0AGkAbwBu
+				AF8AaABlAGwAcABlAHIALgByAGIADwAeAA4ASgBhAHkA
+				YQB2AGEAcgBtAGEAbgAgAFYASQBJABIARFVzZXJzL2Fu
+				ZHJld3JvYmJpbnMvc3JjL3NhbXBsZV9hcHAvYXBwL2hl
+				bHBlcnMvYXBwbGljYXRpb25faGVscGVyLnJiABMAAS8A
+				ABUAAgAU//8AAA==
+				</data>
+				<key>FileURL</key>
+				<string>file://localhost/Users/andrewrobbins/src/sample_app/app/helpers/application_helper.rb</string>
+				<key>TypeID</key>
+				<string>_CFileLocator</string>
+				<key>Version</key>
+				<integer>1</integer>
+			</dict>
+		</dict>
+		<dict>
+			<key>Date</key>
+			<date>2011-08-08T18:04:10Z</date>
+			<key>Location</key>
+			<dict>
+				<key>AliasData</key>
+				<data>
+				AAAAAAHcAAIAAA5KYXlhdmFybWFuIFZJSQAAAAAAAAAA
+				AAAAAADJhKxaSCsAAAAT2N8TcGFnZXNfY29udHJvbGxl
+				ci5yYgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+				AAAAAAAAAAAAAAAAAAAAABP3m8pjU3pURVhUAAAAAP//
+				//8AAAkgAAAAAAAAAAAAAAAAAAAAC2NvbnRyb2xsZXJz
+				AAAQAAgAAMmFHNoAAAARAAgAAMpjteoAAAABABgAE9jf
+				ABPY3gAT2NgADxmgAAh/WQAAmD4AAgBVSmF5YXZhcm1h
+				biBWSUk6VXNlcnM6YW5kcmV3cm9iYmluczpzcmM6c2Ft
+				cGxlX2FwcDphcHA6Y29udHJvbGxlcnM6cGFnZXNfY29u
+				dHJvbGxlci5yYgAADgAoABMAcABhAGcAZQBzAF8AYwBv
+				AG4AdAByAG8AbABsAGUAcgAuAHIAYgAPAB4ADgBKAGEA
+				eQBhAHYAYQByAG0AYQBuACAAVgBJAEkAEgBGVXNlcnMv
+				YW5kcmV3cm9iYmlucy9zcmMvc2FtcGxlX2FwcC9hcHAv
+				Y29udHJvbGxlcnMvcGFnZXNfY29udHJvbGxlci5yYgAT
+				AAEvAAAVAAIAFP//AAA=
+				</data>
+				<key>FileURL</key>
+				<string>file://localhost/Users/andrewrobbins/src/sample_app/app/controllers/pages_controller.rb</string>
+				<key>TypeID</key>
+				<string>_CFileLocator</string>
+				<key>Version</key>
+				<integer>1</integer>
+			</dict>
+		</dict>
+		<dict>
+			<key>Date</key>
+			<date>2011-08-08T18:04:10Z</date>
+			<key>Location</key>
+			<dict>
+				<key>AliasData</key>
+				<data>
+				AAAAAAHCAAIAAA5KYXlhdmFybWFuIFZJSQAAAAAAAAAA
+				AAAAAADJhKxaSCsAAAAT954NaG9tZS5odG1sLmVyYgAA
+				AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+				AAAAAAAAAAAAAAAAAAAAABP3ocpjU3pURVhUAAAAAP//
+				//8AAAkgAAAAAAAAAAAAAAAAAAAABXBhZ2VzAAAQAAgA
+				AMmFHNoAAAARAAgAAMpjteoAAAABABwAE/eeABPY5QAT
+				2N4AE9jYAA8ZoAAIf1kAAJg+AAIAT0pheWF2YXJtYW4g
+				VklJOlVzZXJzOmFuZHJld3JvYmJpbnM6c3JjOnNhbXBs
+				ZV9hcHA6YXBwOnZpZXdzOnBhZ2VzOmhvbWUuaHRtbC5l
+				cmIAAA4AHAANAGgAbwBtAGUALgBoAHQAbQBsAC4AZQBy
+				AGIADwAeAA4ASgBhAHkAYQB2AGEAcgBtAGEAbgAgAFYA
+				SQBJABIAQFVzZXJzL2FuZHJld3JvYmJpbnMvc3JjL3Nh
+				bXBsZV9hcHAvYXBwL3ZpZXdzL3BhZ2VzL2hvbWUuaHRt
+				bC5lcmIAEwABLwAAFQACABT//wAA
+				</data>
+				<key>FileURL</key>
+				<string>file://localhost/Users/andrewrobbins/src/sample_app/app/views/pages/home.html.erb</string>
+				<key>TypeID</key>
+				<string>_CFileLocator</string>
+				<key>Version</key>
+				<integer>1</integer>
+			</dict>
+		</dict>
+		<dict>
+			<key>Date</key>
+			<date>2011-08-08T18:04:10Z</date>
+			<key>Location</key>
+			<dict>
+				<key>AliasData</key>
+				<data>
+				AAAAAAHOAAIAAA5KYXlhdmFybWFuIFZJSQAAAAAAAAAA
+				AAAAAADJhKxaSCsAAAAT954QY29udGFjdC5odG1sLmVy
+				YgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+				AAAAAAAAAAAAAAAAAAAAABP3oMpjU3oAAAAAAAAAAP//
+				//8AAAkgAAAAAAAAAAAAAAAAAAAABXBhZ2VzAAAQAAgA
+				AMmFHNoAAAARAAgAAMpjteoAAAABABwAE/eeABPY5QAT
+				2N4AE9jYAA8ZoAAIf1kAAJg+AAIAUkpheWF2YXJtYW4g
+				VklJOlVzZXJzOmFuZHJld3JvYmJpbnM6c3JjOnNhbXBs
+				ZV9hcHA6YXBwOnZpZXdzOnBhZ2VzOmNvbnRhY3QuaHRt
+				bC5lcmIADgAiABAAYwBvAG4AdABhAGMAdAAuAGgAdABt
+				AGwALgBlAHIAYgAPAB4ADgBKAGEAeQBhAHYAYQByAG0A
+				YQBuACAAVgBJAEkAEgBDVXNlcnMvYW5kcmV3cm9iYmlu
+				cy9zcmMvc2FtcGxlX2FwcC9hcHAvdmlld3MvcGFnZXMv
+				Y29udGFjdC5odG1sLmVyYgAAEwABLwAAFQACABT//wAA
+				</data>
+				<key>FileURL</key>
+				<string>file://localhost/Users/andrewrobbins/src/sample_app/app/views/pages/contact.html.erb</string>
+				<key>TypeID</key>
+				<string>_CFileLocator</string>
+				<key>Version</key>
+				<integer>1</integer>
+			</dict>
+		</dict>
+		<dict>
+			<key>Date</key>
+			<date>2011-08-08T18:04:10Z</date>
+			<key>Location</key>
+			<dict>
+				<key>AliasData</key>
+				<data>
+				AAAAAAHGAAIAAA5KYXlhdmFybWFuIFZJSQAAAAAAAAAA
+				AAAAAADJhKxaSCsAAAAT954OYWJvdXQuaHRtbC5lcmIA
+				AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+				AAAAAAAAAAAAAAAAAAAAABP3n8pjU3oAAAAAAAAAAP//
+				//8AAAkgAAAAAAAAAAAAAAAAAAAABXBhZ2VzAAAQAAgA
+				AMmFHNoAAAARAAgAAMpjteoAAAABABwAE/eeABPY5QAT
+				2N4AE9jYAA8ZoAAIf1kAAJg+AAIAUEpheWF2YXJtYW4g
+				VklJOlVzZXJzOmFuZHJld3JvYmJpbnM6c3JjOnNhbXBs
+				ZV9hcHA6YXBwOnZpZXdzOnBhZ2VzOmFib3V0Lmh0bWwu
+				ZXJiAA4AHgAOAGEAYgBvAHUAdAAuAGgAdABtAGwALgBl
+				AHIAYgAPAB4ADgBKAGEAeQBhAHYAYQByAG0AYQBuACAA
+				VgBJAEkAEgBBVXNlcnMvYW5kcmV3cm9iYmlucy9zcmMv
+				c2FtcGxlX2FwcC9hcHAvdmlld3MvcGFnZXMvYWJvdXQu
+				aHRtbC5lcmIAABMAAS8AABUAAgAU//8AAA==
+				</data>
+				<key>FileURL</key>
+				<string>file://localhost/Users/andrewrobbins/src/sample_app/app/views/pages/about.html.erb</string>
+				<key>TypeID</key>
+				<string>_CFileLocator</string>
+				<key>Version</key>
+				<integer>1</integer>
+			</dict>
+		</dict>
+		<dict>
+			<key>Date</key>
+			<date>2011-08-08T18:04:10Z</date>
 			<key>Location</key>
 			<dict>
 				<key>AliasData</key>
@@ -371,9 +1059,9 @@
 				AAAAAAHkAAIAAA5KYXlhdmFybWFuIFZJSQAAAAAAAAAA
 				AAAAAADJhKxaSCsAAAAT2OYUYXBwbGljYXRpb24uaHRt
 				bC5lcmIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
-				AAAAAAAAAAAAAAAAAAAAABP2tspjUcdURVhUAAAAAP//
+				AAAAAAAAAAAAAAAAAAAAABP3ncpjU3pURVhUAAAAAP//
 				//8AAAkgAAAAAAAAAAAAAAAAAAAAB2xheW91dHMAABAA
-				CAAAyYUc2gAAABEACAAAymO0NwAAAAEAHAAT2OYAE9jl
+				CAAAyYUc2gAAABEACAAAymO16gAAAAEAHAAT2OYAE9jl
 				ABPY3gAT2NgADxmgAAh/WQAAmD4AAgBYSmF5YXZhcm1h
 				biBWSUk6VXNlcnM6YW5kcmV3cm9iYmluczpzcmM6c2Ft
 				cGxlX2FwcDphcHA6dmlld3M6bGF5b3V0czphcHBsaWNh
@@ -394,7 +1082,39 @@
 		</dict>
 		<dict>
 			<key>Date</key>
-			<date>2011-08-07T02:52:27Z</date>
+			<date>2011-08-08T18:04:10Z</date>
+			<key>Location</key>
+			<dict>
+				<key>AliasData</key>
+				<data>
+				AAAAAAHyAAIAAA5KYXlhdmFybWFuIFZJSQAAAAAAAAAA
+				AAAAAADJhKxaSCsAAAAT97YYcGFnZXNfY29udHJvbGxl
+				cl9zcGVjLnJiAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+				AAAAAAAAAAAAAAAAAAAAABP3t8pjU3oAAAAAAAAAAP//
+				//8AAAkgAAAAAAAAAAAAAAAAAAAAC2NvbnRyb2xsZXJz
+				AAAQAAgAAMmFHNoAAAARAAgAAMpjteoAAAABABgAE/e2
+				ABPpkQAT2NgADxmgAAh/WQAAmD4AAgBbSmF5YXZhcm1h
+				biBWSUk6VXNlcnM6YW5kcmV3cm9iYmluczpzcmM6c2Ft
+				cGxlX2FwcDpzcGVjOmNvbnRyb2xsZXJzOnBhZ2VzX2Nv
+				bnRyb2xsZXJfc3BlYy5yYgAADgAyABgAcABhAGcAZQBz
+				AF8AYwBvAG4AdAByAG8AbABsAGUAcgBfAHMAcABlAGMA
+				LgByAGIADwAeAA4ASgBhAHkAYQB2AGEAcgBtAGEAbgAg
+				AFYASQBJABIATFVzZXJzL2FuZHJld3JvYmJpbnMvc3Jj
+				L3NhbXBsZV9hcHAvc3BlYy9jb250cm9sbGVycy9wYWdl
+				c19jb250cm9sbGVyX3NwZWMucmIAEwABLwAAFQACABT/
+				/wAA
+				</data>
+				<key>FileURL</key>
+				<string>file://localhost/Users/andrewrobbins/src/sample_app/spec/controllers/pages_controller_spec.rb</string>
+				<key>TypeID</key>
+				<string>_CFileLocator</string>
+				<key>Version</key>
+				<integer>1</integer>
+			</dict>
+		</dict>
+		<dict>
+			<key>Date</key>
+			<date>2011-08-08T18:04:10Z</date>
 			<key>Location</key>
 			<dict>
 				<key>AliasData</key>
@@ -426,37 +1146,7 @@
 		</dict>
 		<dict>
 			<key>Date</key>
-			<date>2011-08-07T02:51:51Z</date>
-			<key>Location</key>
-			<dict>
-				<key>AliasData</key>
-				<data>
-				AAAAAAHGAAIAAA5KYXlhdmFybWFuIFZJSQAAAAAAAAAA
-				AAAAAADJhKxaSCsAAAAT7lwOYWJvdXQuaHRtbC5lcmIA
-				AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
-				AAAAAAAAAAAAAAAAAAAAABPzSspjS9dURVhUAAAAAP//
-				//8AAAkgAAAAAAAAAAAAAAAAAAAABXBhZ2VzAAAQAAgA
-				AMmFHNoAAAARAAgAAMpjrkcAAAABABwAE+5cABPY5QAT
-				2N4AE9jYAA8ZoAAIf1kAAJg+AAIAUEpheWF2YXJtYW4g
-				VklJOlVzZXJzOmFuZHJld3JvYmJpbnM6c3JjOnNhbXBs
-				ZV9hcHA6YXBwOnZpZXdzOnBhZ2VzOmFib3V0Lmh0bWwu
-				ZXJiAA4AHgAOAGEAYgBvAHUAdAAuAGgAdABtAGwALgBl
-				AHIAYgAPAB4ADgBKAGEAeQBhAHYAYQByAG0AYQBuACAA
-				VgBJAEkAEgBBVXNlcnMvYW5kcmV3cm9iYmlucy9zcmMv
-				c2FtcGxlX2FwcC9hcHAvdmlld3MvcGFnZXMvYWJvdXQu
-				aHRtbC5lcmIAABMAAS8AABUAAgAU//8AAA==
-				</data>
-				<key>FileURL</key>
-				<string>file://localhost/Users/andrewrobbins/src/sample_app/app/views/pages/about.html.erb</string>
-				<key>TypeID</key>
-				<string>_CFileLocator</string>
-				<key>Version</key>
-				<integer>1</integer>
-			</dict>
-		</dict>
-		<dict>
-			<key>Date</key>
-			<date>2011-08-07T02:51:07Z</date>
+			<date>2011-08-08T18:04:10Z</date>
 			<key>Location</key>
 			<dict>
 				<key>AliasData</key>
@@ -464,9 +1154,9 @@
 				AAAAAAGYAAIAAA5KYXlhdmFybWFuIFZJSQAAAAAAAAAA
 				AAAAAADJhKxaSCsAAAAT2OgJcm91dGVzLnJiAAAAAAAA
 				AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
-				AAAAAAAAAAAAAAAAAAAAABPY6cpjCsdURVhUAAAAAP//
+				AAAAAAAAAAAAAAAAAAAAABP3scpjU3pURVhUAAAAAP//
 				//8AAAkgAAAAAAAAAAAAAAAAAAAABmNvbmZpZwAQAAgA
-				AMmFHNoAAAARAAgAAMpjbTcAAAABABQAE9joABPY2AAP
+				AMmFHNoAAAARAAgAAMpjteoAAAABABQAE9joABPY2AAP
 				GaAACH9ZAACYPgACAEJKYXlhdmFybWFuIFZJSTpVc2Vy
 				czphbmRyZXdyb2JiaW5zOnNyYzpzYW1wbGVfYXBwOmNv
 				bmZpZzpyb3V0ZXMucmIADgAUAAkAcgBvAHUAdABlAHMA
@@ -485,130 +1175,7 @@
 		</dict>
 		<dict>
 			<key>Date</key>
-			<date>2011-08-07T02:16:07Z</date>
-			<key>Location</key>
-			<dict>
-				<key>AliasData</key>
-				<data>
-				AAAAAAHyAAIAAA5KYXlhdmFybWFuIFZJSQAAAAAAAAAA
-				AAAAAADJhKxaSCsAAAAT7l8YcGFnZXNfY29udHJvbGxl
-				cl9zcGVjLnJiAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
-				AAAAAAAAAAAAAAAAAAAAABPuYMpjP4hURVhUAAAAAP//
-				//8AAAkgAAAAAAAAAAAAAAAAAAAAC2NvbnRyb2xsZXJz
-				AAAQAAgAAMmFHNoAAAARAAgAAMpjofgAAAABABgAE+5f
-				ABPpkQAT2NgADxmgAAh/WQAAmD4AAgBbSmF5YXZhcm1h
-				biBWSUk6VXNlcnM6YW5kcmV3cm9iYmluczpzcmM6c2Ft
-				cGxlX2FwcDpzcGVjOmNvbnRyb2xsZXJzOnBhZ2VzX2Nv
-				bnRyb2xsZXJfc3BlYy5yYgAADgAyABgAcABhAGcAZQBz
-				AF8AYwBvAG4AdAByAG8AbABsAGUAcgBfAHMAcABlAGMA
-				LgByAGIADwAeAA4ASgBhAHkAYQB2AGEAcgBtAGEAbgAg
-				AFYASQBJABIATFVzZXJzL2FuZHJld3JvYmJpbnMvc3Jj
-				L3NhbXBsZV9hcHAvc3BlYy9jb250cm9sbGVycy9wYWdl
-				c19jb250cm9sbGVyX3NwZWMucmIAEwABLwAAFQACABT/
-				/wAA
-				</data>
-				<key>FileURL</key>
-				<string>file://localhost/Users/andrewrobbins/src/sample_app/spec/controllers/pages_controller_spec.rb</string>
-				<key>TypeID</key>
-				<string>_CFileLocator</string>
-				<key>Version</key>
-				<integer>1</integer>
-			</dict>
-		</dict>
-		<dict>
-			<key>Date</key>
-			<date>2011-08-07T02:04:59Z</date>
-			<key>Location</key>
-			<dict>
-				<key>AliasData</key>
-				<data>
-				AAAAAAHCAAIAAA5KYXlhdmFybWFuIFZJSQAAAAAAAAAA
-				AAAAAADJhKxaSCsAAAAT7lwNaG9tZS5odG1sLmVyYgAA
-				AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
-				AAAAAAAAAAAAAAAAAAAAABPuXcpjP4hURVhUAAAAAP//
-				//8AAAkgAAAAAAAAAAAAAAAAAAAABXBhZ2VzAAAQAAgA
-				AMmFHNoAAAARAAgAAMpjofgAAAABABwAE+5cABPY5QAT
-				2N4AE9jYAA8ZoAAIf1kAAJg+AAIAT0pheWF2YXJtYW4g
-				VklJOlVzZXJzOmFuZHJld3JvYmJpbnM6c3JjOnNhbXBs
-				ZV9hcHA6YXBwOnZpZXdzOnBhZ2VzOmhvbWUuaHRtbC5l
-				cmIAAA4AHAANAGgAbwBtAGUALgBoAHQAbQBsAC4AZQBy
-				AGIADwAeAA4ASgBhAHkAYQB2AGEAcgBtAGEAbgAgAFYA
-				SQBJABIAQFVzZXJzL2FuZHJld3JvYmJpbnMvc3JjL3Nh
-				bXBsZV9hcHAvYXBwL3ZpZXdzL3BhZ2VzL2hvbWUuaHRt
-				bC5lcmIAEwABLwAAFQACABT//wAA
-				</data>
-				<key>FileURL</key>
-				<string>file://localhost/Users/andrewrobbins/src/sample_app/app/views/pages/home.html.erb</string>
-				<key>TypeID</key>
-				<string>_CFileLocator</string>
-				<key>Version</key>
-				<integer>1</integer>
-			</dict>
-		</dict>
-		<dict>
-			<key>Date</key>
-			<date>2011-08-07T02:03:47Z</date>
-			<key>Location</key>
-			<dict>
-				<key>AliasData</key>
-				<data>
-				AAAAAAHOAAIAAA5KYXlhdmFybWFuIFZJSQAAAAAAAAAA
-				AAAAAADJhKxaSCsAAAAT7lwQY29udGFjdC5odG1sLmVy
-				YgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
-				AAAAAAAAAAAAAAAAAAAAABPuXspjP4hURVhUAAAAAP//
-				//8AAAkgAAAAAAAAAAAAAAAAAAAABXBhZ2VzAAAQAAgA
-				AMmFHNoAAAARAAgAAMpjofgAAAABABwAE+5cABPY5QAT
-				2N4AE9jYAA8ZoAAIf1kAAJg+AAIAUkpheWF2YXJtYW4g
-				VklJOlVzZXJzOmFuZHJld3JvYmJpbnM6c3JjOnNhbXBs
-				ZV9hcHA6YXBwOnZpZXdzOnBhZ2VzOmNvbnRhY3QuaHRt
-				bC5lcmIADgAiABAAYwBvAG4AdABhAGMAdAAuAGgAdABt
-				AGwALgBlAHIAYgAPAB4ADgBKAGEAeQBhAHYAYQByAG0A
-				YQBuACAAVgBJAEkAEgBDVXNlcnMvYW5kcmV3cm9iYmlu
-				cy9zcmMvc2FtcGxlX2FwcC9hcHAvdmlld3MvcGFnZXMv
-				Y29udGFjdC5odG1sLmVyYgAAEwABLwAAFQACABT//wAA
-				</data>
-				<key>FileURL</key>
-				<string>file://localhost/Users/andrewrobbins/src/sample_app/app/views/pages/contact.html.erb</string>
-				<key>TypeID</key>
-				<string>_CFileLocator</string>
-				<key>Version</key>
-				<integer>1</integer>
-			</dict>
-		</dict>
-		<dict>
-			<key>Date</key>
-			<date>2011-08-07T02:03:32Z</date>
-			<key>Location</key>
-			<dict>
-				<key>AliasData</key>
-				<data>
-				AAAAAAHcAAIAAA5KYXlhdmFybWFuIFZJSQAAAAAAAAAA
-				AAAAAADJhKxaSCsAAAAT2N8TcGFnZXNfY29udHJvbGxl
-				ci5yYgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
-				AAAAAAAAAAAAAAAAAAAAABPuW8pjP4hURVhUAAAAAP//
-				//8AAAkgAAAAAAAAAAAAAAAAAAAAC2NvbnRyb2xsZXJz
-				AAAQAAgAAMmFHNoAAAARAAgAAMpjofgAAAABABgAE9jf
-				ABPY3gAT2NgADxmgAAh/WQAAmD4AAgBVSmF5YXZhcm1h
-				biBWSUk6VXNlcnM6YW5kcmV3cm9iYmluczpzcmM6c2Ft
-				cGxlX2FwcDphcHA6Y29udHJvbGxlcnM6cGFnZXNfY29u
-				dHJvbGxlci5yYgAADgAoABMAcABhAGcAZQBzAF8AYwBv
-				AG4AdAByAG8AbABsAGUAcgAuAHIAYgAPAB4ADgBKAGEA
-				eQBhAHYAYQByAG0AYQBuACAAVgBJAEkAEgBGVXNlcnMv
-				YW5kcmV3cm9iYmlucy9zcmMvc2FtcGxlX2FwcC9hcHAv
-				Y29udHJvbGxlcnMvcGFnZXNfY29udHJvbGxlci5yYgAT
-				AAEvAAAVAAIAFP//AAA=
-				</data>
-				<key>FileURL</key>
-				<string>file://localhost/Users/andrewrobbins/src/sample_app/app/controllers/pages_controller.rb</string>
-				<key>TypeID</key>
-				<string>_CFileLocator</string>
-				<key>Version</key>
-				<integer>1</integer>
-			</dict>
-		</dict>
-		<dict>
-			<key>Date</key>
-			<date>2011-08-07T00:46:45Z</date>
+			<date>2011-08-08T18:04:10Z</date>
 			<key>Location</key>
 			<dict>
 				<key>AliasData</key>
@@ -652,8 +1219,8 @@
 	<key>ToolbarVisible:andrewrobbins</key>
 	<true/>
 	<key>ViewSplitterPosition:andrewrobbins</key>
-	<real>0.25317692756652832</real>
+	<real>0.29912024736404419</real>
 	<key>WindowFrame:andrewrobbins:displays([(0, 0), (2560, 1440)])</key>
-	<string>rect(44,118,1415,1141)</string>
+	<string>rect(44,40,1415,1063)</string>
 </dict>
 </plist>
