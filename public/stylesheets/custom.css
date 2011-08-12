@@ -138,6 +138,15 @@ div.field, div.actions {
   margin-bottom: 10px;
 }
 
+/* user index page */
+ul.users {
+  margin-top: 1em;
+}
+
+.users li {
+  list-style: none;
+}
+
 /* errors */
 
 .field_with_errors {

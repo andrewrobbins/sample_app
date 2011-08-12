@@ -14,7 +14,9 @@ class SessionsController < ApplicationController
     else
       # sign in the user and redirect to the user's show page
       sign_in user
-      redirect_to user
+      # if client was redirected to signin page, friendly forward back, otherwise
+      #   default to the profile page
+      redirect_back_or user
     end
   end
   
