@@ -205,8 +205,8 @@ describe UsersController do
     describe "as an admin user" do
       
       before(:each) do
-        admin = Factory(:user, :email => "admin@example.com", :admin => true)
-        test_sign_in(admin)
+        @admin = Factory(:user, :email => "admin@example.com", :admin => true)
+        test_sign_in(@admin)
       end
       
       it "should destroy the user" do
@@ -218,6 +218,12 @@ describe UsersController do
       it "should redirect to the users page" do
         delete :destroy, :id => @user
         response.should redirect_to(users_path)
+      end
+      
+      it "should not allow an admin to delete himself" do
+        delete :destroy, :id => @admin
+        response.should redirect_to(users_path)
+        flash[:error].should_not be_blank
       end
       
     end
@@ -274,7 +280,8 @@ describe UsersController do
 
     describe "for signed-in users" do
       before(:each) do
-        @user = test_sign_in(Factory(:user))
+        @user = test_sign_in(Factory(:user, :name => "admin", 
+                                     :email => "admin@example.org", :admin => true))
         second = Factory(:user, :name => "Bob", :email => "another@example.com")
         third  = Factory(:user, :name => "Ben", :email => "another@example.net")
         
@@ -310,6 +317,16 @@ describe UsersController do
         response.should have_selector("a", :href => "/users?page=2", :content => "2")
         response.should have_selector("a", :href => "/users?page=2", :content => "Next")
       end
+      
     end
+        
+    it "should not have a delete link for the admin" do
+      @user = test_sign_in(Factory(:user, :name => "admin", :email => "admin@example.org",
+                                   :admin => true))
+      @users = [@user]
+      get :index
+      response.should_not have_selector("a", :content => "delete")
+    end
+
   end
 end
