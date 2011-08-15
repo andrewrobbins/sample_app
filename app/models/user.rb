@@ -16,6 +16,13 @@ class User < ActiveRecord::Base
                        :confirmation => true,
                        :length => { :within => 6..40 } 					
 
+  has_many :microposts, :dependent => :destroy
+
+  # micropost feed
+  def feed
+    Micropost.where("user_id = ?", id)
+  end
+
   # password machinery
   before_save :encrypt_password
   
