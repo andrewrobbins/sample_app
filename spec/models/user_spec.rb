@@ -171,18 +171,101 @@ describe User do
       end
       
       it "should include the user's microposts" do
-        @user.feed.include?(@mp1).should be_true
-        @user.feed.include?(@mp2).should be_true
+        @user.feed.should include(@mp1)
+        @user.feed.should include(@mp2)
       end
 
       it "should not include a different user's microposts" do
         mp3 = Factory(:micropost,
                       :user => Factory(:user, :email => Factory.next(:email)))
-        @user.feed.include?(mp3).should be_false
+        @user.feed.should_not include(mp3)
+      end
+      
+      it "should include the microposts of followed users" do
+        followed = Factory(:user, :email => Factory.next(:email))
+        mp3 = Factory(:micropost, :user => followed)
+        @user.follow!(followed)
+        @user.feed.should include(mp3)
       end
       
     end
   
+  end
+  
+  describe "relationships" do
+    before(:each) do
+      @user = User.create!(@attr)
+      @followed = Factory(:user)
+    end
+    
+    it "should have a relationships method" do
+      @user.should respond_to(:relationships)
+    end
+  
+    it "should have a following method" do
+      @user.should respond_to(:following)
+    end
+   
+    it "should have a follow! method" do
+      @user.should respond_to(:follow!)
+    end
+    
+    it "Should have a following? method" do
+      @user.should respond_to(:following?)
+    end
+   
+    it "should have a unfollow! method" do
+      @user.should respond_to(:unfollow!)
+    end
+   
+    it "should follow another user" do
+      @user.follow!(@followed)
+      @user.should be_following(@followed)
+    end
+   
+    it "should include the followed user in the following array" do
+      @user.follow!(@followed)
+      @user.following.should include(@followed)
+    end
+   
+    it "should unfollow a user" do
+      @user.follow!(@followed)
+      @user.unfollow!(@followed)
+      @user.should_not be_following(@followed)
+    end
+   
+    it "should have a reverse_relationships method" do
+      @user.should respond_to(:reverse_relationships)
+    end
+    
+    it "should have a followers method" do
+      @user.should respond_to(:followers)
+    end
+    
+    it "should include the followed in the followers array" do
+      @user.follow!(@followed)
+      @followed.followers.should include(@user)
+    end
+  
+    describe "dependent destruction" do
+      before(:each) do
+        @followed = Factory(:user, :email => Factory.next(:email))
+        @relationship = @user.relationships.build(:followed_id => @followed.id)
+        @relationship.save!
+      end
+    
+      it "should remove all existing following relationships when destroyed" do
+        Relationship.where("follower_id = ?", @user.id).count.should == 1
+        @user.destroy
+        Relationship.where("follower_id = ?", @user.id).should be_empty
+      end
+  
+      it "should remove all existing followed relationships when destroyed" do
+        Relationship.where("followed_id = ?", @followed.id).count.should == 1
+        @followed.destroy
+        Relationship.where("followed_id = ?", @followed.id).should be_empty
+      end
+    end
   end
 end
 
